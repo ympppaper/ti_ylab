@@ -1,6 +1,8 @@
-- [home](README.md)
-- [group index](INDEX.md)
-- [recent posts](recentposts.md)
-- [stats & graphs](stats.md)
-- [group profiles](profiles.md)
-- [✨ notable projects](sidecar-projects.md)
+- Ransomware    
+    - [Summary](README.md)
+    - [Groups's Status](INDEX.md)
+    - [Recent Posts](recentposts.md)
+    - [Graphs](stats.md)
+    - [Group Profiles](profiles.md)
+    <!--- [notable projects](sidecar-projects.md)-->
+
