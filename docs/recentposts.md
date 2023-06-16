@@ -4,6 +4,10 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-16 | [`flybtr.com`](https://google.com/search?q=flybtr.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-16 | [`cangas.gal`](https://google.com/search?q=cangas.gal) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
+| 2023-06-16 | [`Alpha Data`](https://google.com/search?q=Alpha+Data) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
+| 2023-06-16 | [`Plott Corporation`](https://google.com/search?q=Plott+Corporation) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-16 | [`Badan Operasi Bersama Pt Bumi Siak Pusako Pertamina Hulu`](https://google.com/search?q=Badan+Operasi+Bersama+Pt+Bumi+Siak+Pusako+Pertamina+Hulu) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-16 | [`Roberto Verino Difusion`](https://google.com/search?q=Roberto+Verino+Difusion) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2023-06-16 | [`Prada Gayoso`](https://google.com/search?q=Prada+Gayoso) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
@@ -200,7 +204,3 @@ _last `200` posts_
 | 2023-05-29 | [`Computer Information Concepts Inc`](https://google.com/search?q=Computer+Information+Concepts+Inc) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-29 | [`Brokers Trust Insura nce Group`](https://google.com/search?q=Brokers+Trust+Insura+nce+Group) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-29 | [`retailmerchantservices.co.uk`](https://google.com/search?q=retailmerchantservices.co.uk) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
-| 2023-05-29 | [`Fersten Worldwide`](https://google.com/search?q=Fersten+Worldwide) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-29 | [`C********* ***************`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-29 | [`Earlens Corporation`](https://google.com/search?q=Earlens+Corporation) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2023-05-29 | [`Neutronic Stamping`](https://google.com/search?q=Neutronic+Stamping) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
