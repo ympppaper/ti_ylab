@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-17 | [`asz-gmbh.de`](https://google.com/search?q=asz-gmbh.de) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`https://delbonohotels.com`](https://google.com/search?q=https%3A%2F%2Fdelbonohotels.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`ste-usa.com`](https://google.com/search?q=ste-usa.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-29 | [`Soroc`](https://google.com/search?q=Soroc) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2023-05-29 | [`Adsboll`](https://google.com/search?q=Adsboll) | [vicesociety](https://ransomwatch.telemetry.ltd/#/profiles?id=vicesociety) |
 | 2023-05-29 | [`BCATTORNEY`](https://google.com/search?q=BCATTORNEY) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-29 | [`aquidneckclub.com`](https://google.com/search?q=aquidneckclub.com) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
