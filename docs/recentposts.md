@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-17 | [`Creative Liquid Coatings`](https://google.com/search?q=Creative+Liquid+Coatings) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-17 | [`Bauer Built`](https://google.com/search?q=Bauer+Built) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
 | 2023-06-17 | [`https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fawmga.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fclaritywatertech.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-30 | [`Servizi Omnia All data upload`](https://google.com/search?q=Servizi+Omnia+All+data+upload) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2023-05-30 | [`MFDDS`](https://google.com/search?q=MFDDS) | [blackbasta](https://ransomwatch.telemetry.ltd/#/profiles?id=blackbasta) |
 | 2023-05-30 | [`casepoint.com`](https://google.com/search?q=casepoint.com) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
-| 2023-05-30 | [`eastern-media-international-corporation`](https://google.com/search?q=eastern-media-international-corporation) | [ragroup](https://ransomwatch.telemetry.ltd/#/profiles?id=ragroup) |
