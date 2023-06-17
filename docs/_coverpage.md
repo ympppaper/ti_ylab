@@ -1,7 +1,7 @@
 
-# ransomwatch <small>👀 🦅</small>
+# TI Y-Lab
 
-> a darknet blog aggregator
+> Threat Ingelligence
 
 ###### _all site pages and graphs are dynamically generated hourly_
 
