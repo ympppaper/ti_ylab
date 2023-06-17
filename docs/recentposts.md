@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-17 | [`https://oppida.com/`](https://google.com/search?q=https%3A%2F%2Foppida.com%2F) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`https://conleywirick.com`](https://google.com/search?q=https%3A%2F%2Fconleywirick.com) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fascentia.us) | [qilin](https://ransomwatch.telemetry.ltd/#/profiles?id=qilin) |
 | 2023-06-17 | [`Creative Liquid Coatings`](https://google.com/search?q=Creative+Liquid+Coatings) | [alphv](https://ransomwatch.telemetry.ltd/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-05-30 | [`SK Life Science`](https://google.com/search?q=SK+Life+Science) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
 | 2023-05-30 | [`columbuscitizens.org`](https://google.com/search?q=columbuscitizens.org) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2023-05-30 | [`Lewis Young Robertso n & Burningham`](https://google.com/search?q=Lewis+Young+Robertso+n+%26+Burningham) | [akira](https://ransomwatch.telemetry.ltd/#/profiles?id=akira) |
-| 2023-05-30 | [`Servizi Omnia All data upload`](https://google.com/search?q=Servizi+Omnia+All+data+upload) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
