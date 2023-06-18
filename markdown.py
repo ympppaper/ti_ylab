@@ -62,31 +62,31 @@ def mainpage():
     writeline(uptime_sheet, '## summary')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_')
+    writeline(uptime_sheet, '- Currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '⏲ there have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
+    writeline(uptime_sheet, '- There have been `' + str(postslast24h()) + '` posts within the `last 24 hours`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🦈 there have been `' + str(monthlypostcount()) + '` posts within the `month of ' + currentmonthstr() + '`')
+    writeline(uptime_sheet, '- There have been `' + str(monthlypostcount()) + '` posts within the `month of ' + currentmonthstr() + '`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🪐 there have been `' + str(postssince(90)) + '` posts within the `last 90 days`')
+    writeline(uptime_sheet, '- There have been `' + str(postssince(90)) + '` posts within the `last 90 days`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🏚 there have been `' + str(poststhisyear()) + '` posts within the `year of ' + str(dt.now().year) + '`')
+    writeline(uptime_sheet, '- There have been `' + str(poststhisyear()) + '` posts within the `year of ' + str(dt.now().year) + '`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '🦕 there have been `' + str(postcount()) + '` posts `since the dawn of ransomwatch`')
+    writeline(uptime_sheet, '- There have been `' + str(postcount()) + '` posts `since the dawn of ransomwatch`')
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` custom parsers indexing posts')
+    writeline(uptime_sheet, '- There are `' + str(parsercount()) + '` custom parsers indexing posts')
     #writeline(uptime_sheet, 'there are `' + str(parsercount()) + '` active parsers, `' + str(headlesscount()) + '` of which using headless browsers - _`' + str(countcaptchahosts()) + '` groups have recently introduced captchas_')
-    writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
-    writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '> see the project [README](https://github.com/joshhighet/ransomwatch#ransomwatch--) for backend technicals')
+    #writeline(uptime_sheet, '')
+    #writeline(uptime_sheet, '_`' + str(version2count()) + '` sites using v2 onion services are no longer indexed - [support.torproject.org](https://support.torproject.org/onionservices/v2-deprecation/)_')
+    #writeline(uptime_sheet, '')
+    #writeline(uptime_sheet, '> see the project [README](https://github.com/joshhighet/ransomwatch#ransomwatch--) for backend technicals')
 
 def indexpage():
     index_sheet = 'docs/INDEX.md'
     with open(index_sheet, 'w', encoding='utf-8') as f:
         f.close()
     groups = openjson('groups.json')
-    writeline(index_sheet, '# 📚 index')
+    writeline(index_sheet, '#Index')
     writeline(index_sheet, '')
     header = '| group | title | status | last seen | location |'
     writeline(index_sheet, header)
@@ -120,7 +120,7 @@ def statspage():
     # delete contents of file
     with open(statspage, 'w', encoding='utf-8') as f:
         f.close()
-    writeline(statspage, '# 📊 stats')
+    writeline(statspage, '# Graphs')
     writeline(statspage, '')
     writeline(statspage, '_timestamp association commenced october 21"_')
     writeline(statspage, '')
@@ -155,7 +155,7 @@ def recentpage():
     # delete contents of file
     with open(recentpage, 'w', encoding='utf-8') as f:
         f.close()
-    writeline(recentpage, '# 📰 recent posts')
+    writeline(recentpage, '# Recent posts')
     writeline(recentpage, '')
     writeline(recentpage, '_last `' + str(fetching_count) + '` posts_')
     writeline(recentpage, '')
@@ -168,7 +168,7 @@ def recentpage():
         title = post['post_title'].replace('|', '-')
         group = post['group_name'].replace('|', '-')
         urlencodedtitle = urllib.parse.quote_plus(title)
-        grouplink = '[' + group + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group + ')'
+        grouplink = '[' + group + '](https://ympppaper.github.io/ti_ylab/#/profiles?id=' + group + ')'
         line = '| ' + date + ' | [`' + title + '`](https://google.com/search?q=' + urlencodedtitle + ') | ' + grouplink + ' |'
         writeline(recentpage, line)
     stdlog('recent posts page generated')
@@ -182,7 +182,7 @@ def profilepage():
     # delete contents of file
     with open(profilepage, 'w', encoding='utf-8') as f:
         f.close()
-    writeline(profilepage, '# 🐦 profiles')
+    writeline(profilepage, '# Grop Profiles')
     writeline(profilepage, '')
     groups = openjson('groups.json')
     for group in groups:
