@@ -59,7 +59,7 @@ def mainpage():
     with open(uptime_sheet, 'w', encoding='utf-8') as f:
         f.close()
     writeline(uptime_sheet, '')
-    writeline(uptime_sheet, '## summary')
+    writeline(uptime_sheet, '# Summary')
     writeline(uptime_sheet, '_' + friendly_tz + '_')
     writeline(uptime_sheet, '')
     writeline(uptime_sheet, '- Currently tracking `' + str(groupcount()) + '` groups across `' + str(hostcount()) + '` relays & mirrors - _`' + str(onlinecount()) + '` currently online_')
@@ -86,7 +86,7 @@ def indexpage():
     with open(index_sheet, 'w', encoding='utf-8') as f:
         f.close()
     groups = openjson('groups.json')
-    writeline(index_sheet, '#Index')
+    writeline(index_sheet, '# Index')
     writeline(index_sheet, '')
     header = '| group | title | status | last seen | location |'
     writeline(index_sheet, header)
