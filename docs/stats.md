@@ -1,4 +1,4 @@
-# 📊 stats
+# Graphs
 
 _timestamp association commenced october 21"_
 
