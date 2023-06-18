@@ -108,7 +108,7 @@ def indexpage():
                 title = host['title'].replace('|', '-')
             else:
                 title = ''
-            line = '| [' + group['name'] + '](https://ransomwatch.telemetry.ltd/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
+            line = '| [' + group['name'] + '](https://ympppaper.github.io/ti_ylab/#/profiles?id=' + group['name'] + ') | ' + title + ' | ' + statusemoji + ' | ' + lastseen + ' | ' + host['fqdn'] + ' |'
             writeline(index_sheet, line)
 
 def statspage():
