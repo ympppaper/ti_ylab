@@ -1,7 +1,7 @@
 
-# TI Y-Lab
+# Y-Lab
 
-> Threat Ingelligence
+> Threat Ingelligence Team
 
 ###### _all site pages and graphs are dynamically generated hourly_
 
