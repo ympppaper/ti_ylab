@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`Ascendum Machinery`](https://google.com/search?q=Ascendum+Machinery) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-19 | [`target-8`](https://google.com/search?q=target-8) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-06-19 | [`FHR Electric`](https://google.com/search?q=FHR+Electric) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-19 | [`Bangkok Industrial Gas Co., Ltd. (BIG)`](https://google.com/search?q=Bangkok+Industrial+Gas+Co.%2C+Ltd.+%28BIG%29) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-01 | [`****y *o***** Companies Group`](https://google.com/search?q=%2A%2A%2A%2Ay+%2Ao%2A%2A%2A%2A%2A+Companies+Group) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-06-01 | [`Aarti Industries Ltd.`](https://google.com/search?q=Aarti+Industries+Ltd.) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-06-01 | [`EDG, Inc`](https://google.com/search?q=EDG%2C+Inc) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
-| 2023-06-01 | [`Chadwick, Washington, Moriarty, Elmore and Bunn`](https://google.com/search?q=Chadwick%2C+Washington%2C+Moriarty%2C+Elmore+and+Bunn) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
