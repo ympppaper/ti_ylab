@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-19 | [`Mammoth Energy (NASDAQ: TUSK)`](https://google.com/search?q=Mammoth+Energy+%28NASDAQ%3A+TUSK%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-19 | [`PORTBLUE`](https://google.com/search?q=PORTBLUE) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-19 | [`printmarksolution.com`](https://google.com/search?q=printmarksolution.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-06-19 | [`absolutecal.co.uk`](https://google.com/search?q=absolutecal.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`Buffalo Niagara Association`](https://google.com/search?q=Buffalo+Niagara+Association) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-02 | [`Abeko`](https://google.com/search?q=Abeko) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-02 | [`NORANET - CZ`](https://google.com/search?q=NORANET+-+CZ) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-02 | [`Shows & Artists`](https://google.com/search?q=Shows+%26+Artists) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
