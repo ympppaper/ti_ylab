@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`BLUESAGE`](https://google.com/search?q=BLUESAGE) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-20 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-20 | [`LOONGSON`](https://google.com/search?q=LOONGSON) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-20 | [`Telcoset`](https://google.com/search?q=Telcoset) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe`](https://google.com/search?q=Unico+Data%2CINSYS+Industriesysteme%2CPathA+Suisse%2CPB+Swiss+Tools%2CBoess+Gruppe) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-02 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-02 | [`CS Cargo Group`](https://google.com/search?q=CS+Cargo+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-02 | [`BMD Systemhaus`](https://google.com/search?q=BMD+Systemhaus) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
