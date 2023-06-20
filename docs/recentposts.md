@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-20 | [`LOONGSON`](https://google.com/search?q=LOONGSON) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-20 | [`Telcoset`](https://google.com/search?q=Telcoset) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-19 | [`Mammoth Energy (NASDAQ: TUSK)`](https://google.com/search?q=Mammoth+Energy+%28NASDAQ%3A+TUSK%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`Alberta Newsprint`](https://google.com/search?q=Alberta+Newsprint) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-02 | [`CS Cargo Group`](https://google.com/search?q=CS+Cargo+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-02 | [`BMD Systemhaus`](https://google.com/search?q=BMD+Systemhaus) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-02 | [`Buffalo Niagara Association`](https://google.com/search?q=Buffalo+Niagara+Association) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
