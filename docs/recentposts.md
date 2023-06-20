@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-20 | [`Praxis Energy Agents`](https://google.com/search?q=Praxis+Energy+Agents) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-20 | [`Strait & Lamp Group`](https://google.com/search?q=Strait+%26+Lamp+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-20 | [`MORSEMOVING`](https://google.com/search?q=MORSEMOVING) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-06-20 | [`cornu.ch`](https://google.com/search?q=cornu.ch) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-02 | [`harwoodlloyd.com`](https://google.com/search?q=harwoodlloyd.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`LETAPE JEUNES`](https://google.com/search?q=LETAPE+JEUNES) | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) |
 | 2023-06-02 | [`JPW Industries (jpwindustries.com) - Baileigh Industrial (baileigh.com) - With SpaceX Data`](https://google.com/search?q=JPW+Industries+%28jpwindustries.com%29+-+Baileigh+Industrial+%28baileigh.com%29+-+With+SpaceX+Data) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-06-02 | [`ykk.com`](https://google.com/search?q=ykk.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
