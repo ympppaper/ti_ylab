@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`Medical University of the Americas`](https://google.com/search?q=Medical+University+of+the+Americas) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-20 | [`COEX`](https://google.com/search?q=COEX) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-20 | [`SSV Architects`](https://google.com/search?q=SSV+Architects) | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) |
 | 2023-06-20 | [`Praxis Energy Agents`](https://google.com/search?q=Praxis+Energy+Agents) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-03 | [`SsangYong Motor`](https://google.com/search?q=SsangYong+Motor) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-02 | [`shakeys.com`](https://google.com/search?q=shakeys.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-02 | [`packageconcepts.com`](https://google.com/search?q=packageconcepts.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-06-02 | [`harwoodlloyd.com`](https://google.com/search?q=harwoodlloyd.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
