@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-21 | [`Kansas Joint & Spine Specialists`](https://google.com/search?q=Kansas+Joint+%26+Spine+Specialists) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-21 | [`Craig & Associates, LLC`](https://google.com/search?q=Craig+%26+Associates%2C+LLC) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-21 | [`Main Street Title and Settlement Services LLC`](https://google.com/search?q=Main+Street+Title+and+Settlement+Services+LLC) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-21 | [`T***** ***** *********t** *.*.`](https://google.com/search?q=T%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2At%2A%2A+%2A.%2A.) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-04 | [`uhsp.edu`](https://google.com/search?q=uhsp.edu) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-04 | [`https://https://conleywirick.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fconleywirick.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-06-04 | [`Share and Harris`](https://google.com/search?q=Share+and+Harris) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
-| 2023-06-03 | [`Tension Corporation`](https://google.com/search?q=Tension+Corporation) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
