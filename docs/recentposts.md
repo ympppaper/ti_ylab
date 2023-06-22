@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-22 | [`Luís Simoes`](https://google.com/search?q=Lu%C3%ADs+Simoes) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Allpro Consulting Group`](https://google.com/search?q=Allpro+Consulting+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Lorclon`](https://google.com/search?q=Lorclon) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-21 | [`Wolfs Block Management Limited`](https://google.com/search?q=Wolfs+Block+Management+Limited) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`Mount Desert Island Hospital`](https://google.com/search?q=Mount+Desert+Island+Hospital) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-05 | [`The Briars Group`](https://google.com/search?q=The+Briars+Group) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-05 | [`Avant Grup`](https://google.com/search?q=Avant+Grup) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
-| 2023-06-04 | [`https://https://ascentia.us`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fascentia.us) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
