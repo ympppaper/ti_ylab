@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-22 | [`Hi-tec, Batra Group`](https://google.com/search?q=Hi-tec%2C+Batra+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Barentz North America`](https://google.com/search?q=Barentz+North+America) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`PWI Engineering`](https://google.com/search?q=PWI+Engineering) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-05 | [`D&K Group, Inc`](https://google.com/search?q=D%26K+Group%2C+Inc) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-05 | [`Malt Products`](https://google.com/search?q=Malt+Products) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-05 | [`Beacon ABA Services`](https://google.com/search?q=Beacon+ABA+Services) | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) |
-| 2023-06-05 | [`etships.com`](https://google.com/search?q=etships.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
