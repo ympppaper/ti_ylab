@@ -1,5 +1,5 @@
 
-# Y-Lab
+# Yoshioka-Lab
 
 > Threat Ingelligence Team
 
