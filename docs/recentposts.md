@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-25 | [`Stone Fox Ventures`](https://google.com/search?q=Stone+Fox+Ventures) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-25 | [`Farmacias Los Hidalgos`](https://google.com/search?q=Farmacias+Los+Hidalgos) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-25 | [`Real Estate Systems Integrator`](https://google.com/search?q=Real+Estate+Systems+Integrator) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-25 | [`Universitas Matthiae Belii association`](https://google.com/search?q=Universitas+Matthiae+Belii+association) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-07 | [`aluminumsandcastingsfoundry.com`](https://google.com/search?q=aluminumsandcastingsfoundry.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-07 | [`billhurst.com`](https://google.com/search?q=billhurst.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-07 | [`realcomp.com`](https://google.com/search?q=realcomp.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-06-07 | [`newarka.edu`](https://google.com/search?q=newarka.edu) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
