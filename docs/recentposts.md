@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-26 | [`Lysander Shipping`](https://google.com/search?q=Lysander+Shipping) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-26 | [`LEGALILAVORO`](https://google.com/search?q=LEGALILAVORO) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-26 | [`PNEUMAX`](https://google.com/search?q=PNEUMAX) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-26 | [`Law Society of South Africa`](https://google.com/search?q=Law+Society+of+South+Africa) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-07 | [`ROADSAFETRAFFIC_2`](https://google.com/search?q=ROADSAFETRAFFIC_2) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-06-07 | [`Tour Partner Group `](https://google.com/search?q=Tour+Partner+Group+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-07 | [`Harbro`](https://google.com/search?q=Harbro) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-06-07 | [`https://https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fawmga.com%2F) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
