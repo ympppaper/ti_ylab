@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-27 | [`ITW Food Equipment Group`](https://google.com/search?q=ITW+Food+Equipment+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-27 | [`SITARA`](https://google.com/search?q=SITARA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-27 | [`MAXIMUM PRIME ALIMENTOS EIRELI`](https://google.com/search?q=MAXIMUM+PRIME+ALIMENTOS+EIRELI) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-27 | [`JOB-SA BETON J.O.B SA`](https://google.com/search?q=JOB-SA+BETON+J.O.B+SA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-09 | [`The Adams County Com munication Center or ADCOM911`](https://google.com/search?q=The+Adams+County+Com+munication+Center+or+ADCOM911) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-09 | [`http://www.penncrest.org`](https://google.com/search?q=http%3A%2F%2Fwww.penncrest.org) | [royal](https://ympppaper.github.io/ti_ylab/#/profiles?id=royal) |
 | 2023-06-09 | [`https://https://delbonohotels.com`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fdelbonohotels.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
-| 2023-06-09 | [`Kramer Enterprises`](https://google.com/search?q=Kramer+Enterprises) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
