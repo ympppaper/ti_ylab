@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`ibafrance.fr`](https://google.com/search?q=ibafrance.fr) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-28 | [`N** ********* **********`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-06-28 | [`GENESIS_2`](https://google.com/search?q=GENESIS_2) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-06-28 | [`MODERNIND_2`](https://google.com/search?q=MODERNIND_2) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`Comisión Nacional de Valores`](https://google.com/search?q=Comisi%C3%B3n+Nacional+de+Valores) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-10 | [`FIIG`](https://google.com/search?q=FIIG) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-10 | [`Coca-Cola FEMSA`](https://google.com/search?q=Coca-Cola+FEMSA) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-06-09 | [`Silicon Valley Mechanical`](https://google.com/search?q=Silicon+Valley+Mechanical) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
