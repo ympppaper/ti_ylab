@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`Algotech`](https://google.com/search?q=Algotech) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-28 | [`Cambridge Group of Clubs`](https://google.com/search?q=Cambridge+Group+of+Clubs) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-27 | [`COMPASS INFRASTRUCTURE GROUP`](https://google.com/search?q=COMPASS+INFRASTRUCTURE+GROUP) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
 | 2023-06-27 | [`ITW Food Equipment Group`](https://google.com/search?q=ITW+Food+Equipment+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-09 | [`ACI Advanced Chemica l Industries`](https://google.com/search?q=ACI+Advanced+Chemica+l+Industries) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-09 | [`Ellis Patents`](https://google.com/search?q=Ellis+Patents) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-09 | [`Columbus Regional Healthcare System (US)`](https://google.com/search?q=Columbus+Regional+Healthcare+System+%28US%29) | [daixin](https://ympppaper.github.io/ti_ylab/#/profiles?id=daixin) |
-| 2023-06-09 | [`The Adams County Com munication Center or ADCOM911`](https://google.com/search?q=The+Adams+County+Com+munication+Center+or+ADCOM911) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
