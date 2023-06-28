@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-28 | [`Piramal Group`](https://google.com/search?q=Piramal+Group) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-06-28 | [`Intoximeters`](https://google.com/search?q=Intoximeters) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-28 | [`Algotech`](https://google.com/search?q=Algotech) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-28 | [`Cambridge Group of Clubs`](https://google.com/search?q=Cambridge+Group+of+Clubs) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-09 | [`wsisd.net`](https://google.com/search?q=wsisd.net) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-09 | [`gruppomercurio.com`](https://google.com/search?q=gruppomercurio.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-09 | [`ACI Advanced Chemica l Industries`](https://google.com/search?q=ACI+Advanced+Chemica+l+Industries) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-06-09 | [`Ellis Patents`](https://google.com/search?q=Ellis+Patents) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
