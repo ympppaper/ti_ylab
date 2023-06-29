@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-29 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-06-29 | [`Wilcom`](https://google.com/search?q=Wilcom) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-29 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-29 | [`CentroMed`](https://google.com/search?q=CentroMed) | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`TECHCERT`](https://google.com/search?q=TECHCERT) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-11 | [`PREMIER HOSPITAL DIA`](https://google.com/search?q=PREMIER+HOSPITAL+DIA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-11 | [`CLONARTE`](https://google.com/search?q=CLONARTE) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-06-11 | [`SINTTEL`](https://google.com/search?q=SINTTEL) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
