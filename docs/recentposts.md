@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-29 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-29 | [`CentroMed`](https://google.com/search?q=CentroMed) | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) |
 | 2023-06-29 | [`Texas Heat Treating`](https://google.com/search?q=Texas+Heat+Treating) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-29 | [`JBCC Corp`](https://google.com/search?q=JBCC+Corp) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`CLONARTE`](https://google.com/search?q=CLONARTE) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-11 | [`SINTTEL`](https://google.com/search?q=SINTTEL) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-11 | [`http://www.tachi-s.com`](https://google.com/search?q=http%3A%2F%2Fwww.tachi-s.com) | [royal](https://ympppaper.github.io/ti_ylab/#/profiles?id=royal) |
-| 2023-06-11 | [`RJP MEDICAL LTDA`](https://google.com/search?q=RJP+MEDICAL+LTDA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
