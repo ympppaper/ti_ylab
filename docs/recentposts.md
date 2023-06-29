@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-29 | [`Nycon`](https://google.com/search?q=Nycon) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-29 | [`Hospitality Staffing Solutions`](https://google.com/search?q=Hospitality+Staffing+Solutions) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-29 | [`CON-STRUCT`](https://google.com/search?q=CON-STRUCT) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-29 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-11 | [`CEMAF PARTICIPACOES E ADMINISTRACAO DE BENS LTDA`](https://google.com/search?q=CEMAF+PARTICIPACOES+E+ADMINISTRACAO+DE+BENS+LTDA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-11 | [`Defesa da Classe Trabalhadora (Declatra)`](https://google.com/search?q=Defesa+da+Classe+Trabalhadora+%28Declatra%29) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-11 | [`LUZBOA S.A`](https://google.com/search?q=LUZBOA+S.A) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-06-11 | [`TECHCERT`](https://google.com/search?q=TECHCERT) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
