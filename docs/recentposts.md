@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-06-30 | [`ISPE Connecting Pharmaceutical Knowledge`](https://google.com/search?q=ISPE+Connecting+Pharmaceutical+Knowledge) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-30 | [`tsmc.com`](https://google.com/search?q=tsmc.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-29 | [`amepl.com.au`](https://google.com/search?q=amepl.com.au) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-29 | [`PORTERROOFING`](https://google.com/search?q=PORTERROOFING) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-12 | [`Amaszonas S.A.`](https://google.com/search?q=Amaszonas+S.A.) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-06-12 | [`https://marjam.com/`](https://google.com/search?q=https%3A%2F%2Fmarjam.com%2F) | [blacksuit](https://ympppaper.github.io/ti_ylab/#/profiles?id=blacksuit) |
 | 2023-06-12 | [`Transprensa`](https://google.com/search?q=Transprensa) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-06-12 | [`Krack Zapaterías`](https://google.com/search?q=Krack+Zapater%C3%ADas) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
