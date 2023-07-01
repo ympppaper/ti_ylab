@@ -8,7 +8,7 @@ _july 1st, 2023_
 
 - There have been `8` posts within the `month of july`
 
-- There have been `1150` posts within the `last 90 days`
+- There have been `1149` posts within the `last 90 days`
 
 - There have been `2049` posts within the `year of 2023`
 
