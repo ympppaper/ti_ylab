@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-03 | [`Mutuelle LMP`](https://google.com/search?q=Mutuelle+LMP) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-07-03 | [`Luna Hotels &amp; Resorts `](https://google.com/search?q=Luna+Hotels+%26amp%3B+Resorts+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-07-03 | [`Brett Martin`](https://google.com/search?q=Brett+Martin) | [blackbyte](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbyte) |
 | 2023-07-02 | [`blowtherm.it`](https://google.com/search?q=blowtherm.it) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-13 | [`Jeff Wyler Automotive Family, Inc.`](https://google.com/search?q=Jeff+Wyler+Automotive+Family%2C+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-13 | [`K********* ******* ***`](https://google.com/search?q=K%2A%2A%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-06-13 | [`*i**r** *e***l****`](https://google.com/search?q=%2Ai%2A%2Ar%2A%2A+%2Ae%2A%2A%2Al%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
-| 2023-06-13 | [`rammutual.com`](https://google.com/search?q=rammutual.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
