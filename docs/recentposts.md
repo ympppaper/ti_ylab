@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-04 | [`Polanglo`](https://google.com/search?q=Polanglo) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-04 | [`snjb.net`](https://google.com/search?q=snjb.net) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-04 | [`oneexchangecorp.com`](https://google.com/search?q=oneexchangecorp.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-03 | [`TSMC.com`](https://google.com/search?q=TSMC.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-14 | [`Hemenway Financial Services`](https://google.com/search?q=Hemenway+Financial+Services) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-14 | [`MCNA Dental`](https://google.com/search?q=MCNA+Dental) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-06-14 | [`TF AMD Microelectronics`](https://google.com/search?q=TF+AMD+Microelectronics) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
-| 2023-06-14 | [`Tetrosyl Group`](https://google.com/search?q=Tetrosyl+Group) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
