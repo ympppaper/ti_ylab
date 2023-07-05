@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-05 | [`Portugal Scotturb Data Leaked`](https://google.com/search?q=Portugal+Scotturb+Data+Leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-07-05 | [`guestgroup.com.au`](https://google.com/search?q=guestgroup.com.au) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-05 | [`eurosupport.com`](https://google.com/search?q=eurosupport.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-05 | [`Hoosier Equipment company`](https://google.com/search?q=Hoosier+Equipment+company) | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-14 | [`Marchant Schmidt`](https://google.com/search?q=Marchant+Schmidt) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-06-14 | [`New Horizons Medical`](https://google.com/search?q=New+Horizons+Medical) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-14 | [`granules.com`](https://google.com/search?q=granules.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-06-14 | [`http://venturelogistics.com`](https://google.com/search?q=http%3A%2F%2Fventurelogistics.com) | [blacksuit](https://ympppaper.github.io/ti_ylab/#/profiles?id=blacksuit) |
