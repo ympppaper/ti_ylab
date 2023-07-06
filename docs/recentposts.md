@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-06 | [`Pinnergy`](https://google.com/search?q=Pinnergy) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-06 | [`Bangladesh Krishi Bank`](https://google.com/search?q=Bangladesh+Krishi+Bank) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-06 | [`https://asicamericas.com/`](https://google.com/search?q=https%3A%2F%2Fasicamericas.com%2F) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-07-05 | [`recamlaser.com`](https://google.com/search?q=recamlaser.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-14 | [`The Texwipe`](https://google.com/search?q=The+Texwipe) | [blackbyte](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`YAMAHA CORPORATION OF AMERICA`](https://google.com/search?q=YAMAHA+CORPORATION+OF+AMERICA) | [blackbyte](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbyte) |
 | 2023-06-14 | [`Air Comfort (aircomfort.ac)`](https://google.com/search?q=Air+Comfort+%28aircomfort.ac%29) | [rancoz](https://ympppaper.github.io/ti_ylab/#/profiles?id=rancoz) |
-| 2023-06-14 | [`https://https://www.iecm.co.th`](https://google.com/search?q=https%3A%2F%2Fhttps%3A%2F%2Fwww.iecm.co.th) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
