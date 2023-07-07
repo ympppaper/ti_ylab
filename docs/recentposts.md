@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-07 | [`Lawer SpA`](https://google.com/search?q=Lawer+SpA) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-07 | [`Carvin Software`](https://google.com/search?q=Carvin+Software) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-07 | [`siegfried.com.mx`](https://google.com/search?q=siegfried.com.mx) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-07 | [`gacegypt.net`](https://google.com/search?q=gacegypt.net) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-16 | [`Alpha Data`](https://google.com/search?q=Alpha+Data) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-16 | [`Plott Corporation`](https://google.com/search?q=Plott+Corporation) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-16 | [`Badan Operasi Bersama Pt Bumi Siak Pusako Pertamina Hulu`](https://google.com/search?q=Badan+Operasi+Bersama+Pt+Bumi+Siak+Pusako+Pertamina+Hulu) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-06-16 | [`Roberto Verino Difusion`](https://google.com/search?q=Roberto+Verino+Difusion) | [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) |
