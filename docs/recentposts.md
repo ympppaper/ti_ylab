@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-08 | [`MUJI Europe Holdings Limited`](https://google.com/search?q=MUJI+Europe+Holdings+Limited) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-08 | [`Betty Lous`](https://google.com/search?q=Betty+Lous) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-08 | [`Capacity LLC`](https://google.com/search?q=Capacity+LLC) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-07 | [`Lane Valente Industries`](https://google.com/search?q=Lane+Valente+Industries) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-17 | [`Bauer Built`](https://google.com/search?q=Bauer+Built) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-17 | [`https://awmga.com/`](https://google.com/search?q=https%3A%2F%2Fawmga.com%2F) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-06-17 | [`https://claritywatertech.com`](https://google.com/search?q=https%3A%2F%2Fclaritywatertech.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
-| 2023-06-17 | [`asz-gmbh.de`](https://google.com/search?q=asz-gmbh.de) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
