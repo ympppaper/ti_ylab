@@ -6,12 +6,12 @@ _july 10th, 2023_
 
 - There have been `6` posts within the `last 24 hours`
 
-- There have been `68` posts within the `month of july`
+- There have been `69` posts within the `month of july`
 
-- There have been `1101` posts within the `last 90 days`
+- There have been `1095` posts within the `last 90 days`
 
-- There have been `2109` posts within the `year of 2023`
+- There have been `2110` posts within the `year of 2023`
 
-- There have been `6800` posts `since the dawn of ransomwatch`
+- There have been `6801` posts `since the dawn of ransomwatch`
 
 - There are `80` custom parsers indexing posts
