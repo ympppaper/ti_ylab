@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`Divgi-TTS was hacked. Due to the extreme low level of security, a huge amount of confident`](https://google.com/search?q=Divgi-TTS+was+hacked.+Due+to+the+extreme+low+level+of+security%2C+a+huge+amount+of+confident) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Wright Moore DeHart Dupuis & Hutchinson`](https://google.com/search?q=Wright+Moore+DeHart+Dupuis+%26+Hutchinson) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Weitkamp · Hirsch and Kollegen Steuerberatungsgesellschaft mbH`](https://google.com/search?q=Weitkamp+%C2%B7+Hirsch+and+Kollegen+Steuerberatungsgesellschaft+mbH) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-12 | [`Kansas medical center LLC`](https://google.com/search?q=Kansas+medical+center+LLC) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-20 | [`bbrook.org`](https://google.com/search?q=bbrook.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-06-20 | [`PrintGlobe, Inc.`](https://google.com/search?q=PrintGlobe%2C+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-20 | [`BLUESAGE`](https://google.com/search?q=BLUESAGE) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-06-20 | [`Futura Agronegócios`](https://google.com/search?q=Futura+Agroneg%C3%B3cios) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
