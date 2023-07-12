@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`Algeiba.com has a critical level of security on its network. Customer and partner data is `](https://google.com/search?q=Algeiba.com+has+a+critical+level+of+security+on+its+network.+Customer+and+partner+data+is+) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Amber Court 2020 was hacking. A lot of customers' personal information was stolen.`](https://google.com/search?q=Amber+Court+2020+was+hacking.+A+lot+of+customers%27+personal+information+was+stolen.) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Maruchan Inc`](https://google.com/search?q=Maruchan+Inc) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Divgi-TTS was hacked. Due to the extreme low level of security, a huge amount of confident`](https://google.com/search?q=Divgi-TTS+was+hacked.+Due+to+the+extreme+low+level+of+security%2C+a+huge+amount+of+confident) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-20 | [`Strait & Lamp Group`](https://google.com/search?q=Strait+%26+Lamp+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-20 | [`MORSEMOVING`](https://google.com/search?q=MORSEMOVING) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-06-20 | [`cornu.ch`](https://google.com/search?q=cornu.ch) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-06-20 | [`bbrook.org`](https://google.com/search?q=bbrook.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
