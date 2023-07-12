@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-12 | [`Citelis Mobility`](https://google.com/search?q=Citelis+Mobility) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-11 | [`Motor Components, LLC`](https://google.com/search?q=Motor+Components%2C+LLC) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-11 | [`A123 Systems`](https://google.com/search?q=A123+Systems) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-11 | [`mamboafricaadventure`](https://google.com/search?q=mamboafricaadventure) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-19 | [`Mammoth Energy (NASDAQ: TUSK)`](https://google.com/search?q=Mammoth+Energy+%28NASDAQ%3A+TUSK%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-19 | [`PORTBLUE`](https://google.com/search?q=PORTBLUE) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-19 | [`printmarksolution.com`](https://google.com/search?q=printmarksolution.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
-| 2023-06-19 | [`absolutecal.co.uk`](https://google.com/search?q=absolutecal.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
