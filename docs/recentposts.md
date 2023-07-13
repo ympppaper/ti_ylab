@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-13 | [`affinityhealthservices.ne`](https://google.com/search?q=affinityhealthservices.ne) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-12 | [`Ministerio de Cultura de la RepÃºblica de Cuba`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Rep%C3%83%C2%BAblica+de+Cuba) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
 | 2023-07-12 | [`Eastin Hotel Makkasan Bangkok was hacked. Customers' financial and personal information ha`](https://google.com/search?q=Eastin+Hotel+Makkasan+Bangkok+was+hacked.+Customers%27+financial+and+personal+information+ha) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Algeiba.com has a critical level of security on its network. Customer and partner data is `](https://google.com/search?q=Algeiba.com+has+a+critical+level+of+security+on+its+network.+Customer+and+partner+data+is+) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-20 | [`COEX`](https://google.com/search?q=COEX) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-20 | [`SSV Architects`](https://google.com/search?q=SSV+Architects) | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) |
 | 2023-06-20 | [`Praxis Energy Agents`](https://google.com/search?q=Praxis+Energy+Agents) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
-| 2023-06-20 | [`Strait & Lamp Group`](https://google.com/search?q=Strait+%26+Lamp+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
