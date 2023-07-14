@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`Chin Hin Group`](https://google.com/search?q=Chin+Hin+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-14 | [`The Traffic Tech`](https://google.com/search?q=The+Traffic+Tech) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`Quikcard Solutions Inc.`](https://google.com/search?q=Quikcard+Solutions+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`Jadranka Group`](https://google.com/search?q=Jadranka+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`Summit Hut`](https://google.com/search?q=Summit+Hut) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`National Institutional Facilitation Technologies (Pvt.) Limited`](https://google.com/search?q=National+Institutional+Facilitation+Technologies+%28Pvt.%29+Limited) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-22 | [`OMNIPOL`](https://google.com/search?q=OMNIPOL) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
