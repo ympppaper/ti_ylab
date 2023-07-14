@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`CPA Advisors Group`](https://google.com/search?q=CPA+Advisors+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`eyedoc.com.na`](https://google.com/search?q=eyedoc.com.na) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-14 | [`BTU`](https://google.com/search?q=BTU) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`Info Salons`](https://google.com/search?q=Info+Salons) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`PWI Engineering`](https://google.com/search?q=PWI+Engineering) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Federation Francaise de Rugby`](https://google.com/search?q=Federation+Francaise+de+Rugby) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Luís Simoes`](https://google.com/search?q=Lu%C3%ADs+Simoes) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-22 | [`Allpro Consulting Group`](https://google.com/search?q=Allpro+Consulting+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
