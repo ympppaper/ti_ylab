@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`Info Salons`](https://google.com/search?q=Info+Salons) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`Schmidt Salzman & Mo ran, Ltd`](https://google.com/search?q=Schmidt+Salzman+%26+Mo+ran%2C+Ltd) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-14 | [`Snatch News`](https://google.com/search?q=Snatch+News) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-13 | [`Gerber Childrenswear LLC`](https://google.com/search?q=Gerber+Childrenswear+LLC) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`Allpro Consulting Group`](https://google.com/search?q=Allpro+Consulting+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Lorclon`](https://google.com/search?q=Lorclon) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-21 | [`Wolfs Block Management Limited`](https://google.com/search?q=Wolfs+Block+Management+Limited) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-21 | [`BGFIBank Group`](https://google.com/search?q=BGFIBank+Group) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
