@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-14 | [`Jadranka Group`](https://google.com/search?q=Jadranka+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`Dental One Craigieburn`](https://google.com/search?q=Dental+One+Craigieburn) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`ANL Packaging`](https://google.com/search?q=ANL+Packaging) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`CPA Advisors Group`](https://google.com/search?q=CPA+Advisors+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-22 | [`londonandcapital`](https://google.com/search?q=londonandcapital) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-06-22 | [`Hi-tec, Batra Group`](https://google.com/search?q=Hi-tec%2C+Batra+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-22 | [`Barentz North America`](https://google.com/search?q=Barentz+North+America) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-22 | [`PWI Engineering`](https://google.com/search?q=PWI+Engineering) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
