@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-15 | [`Highland Health Systems`](https://google.com/search?q=Highland+Health+Systems) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-15 | [`Pesquera Diamante S.A.`](https://google.com/search?q=Pesquera+Diamante+S.A.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-15 | [`Telepizza`](https://google.com/search?q=Telepizza) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-15 | [`Ministry of Energy and Mines (Cuba) " STORMOUS +  GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B++GhostSec+%22) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-23 | [`DBSA hit by ransomwa re attack.`](https://google.com/search?q=DBSA+hit+by+ransomwa+re+attack.) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-23 | [`Dancie Perugini Ware Public Relations`](https://google.com/search?q=Dancie+Perugini+Ware+Public+Relations) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-23 | [`Hill International`](https://google.com/search?q=Hill+International) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-22 | [`medexs.com`](https://google.com/search?q=medexs.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
