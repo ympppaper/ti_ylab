@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-15 | [`energym.co.il`](https://google.com/search?q=energym.co.il) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`co.langlade.wi.us`](https://google.com/search?q=co.langlade.wi.us) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-15 | [`jasperpictures`](https://google.com/search?q=jasperpictures) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
 | 2023-07-15 | [`Highland Health Systems`](https://google.com/search?q=Highland+Health+Systems) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-23 | [`GC&E`](https://google.com/search?q=GC%26E) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-23 | [`MMCONTAINER_2`](https://google.com/search?q=MMCONTAINER_2) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-06-23 | [`Refractron`](https://google.com/search?q=Refractron) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-06-23 | [`DBSA hit by ransomwa re attack.`](https://google.com/search?q=DBSA+hit+by+ransomwa+re+attack.) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
