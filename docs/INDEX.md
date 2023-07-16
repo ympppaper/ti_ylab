@@ -11,7 +11,7 @@
 | [suncrypt](https://ympppaper.github.io/ti_ylab/#/profiles?id=suncrypt) |  | 🔴 | 2021-05-01 | nbzzb6sa6xuura2z.onion |
 | [lv](https://ympppaper.github.io/ti_ylab/#/profiles?id=lv) |  | 🔴 | 2022-12-10 | rbvuetuneohce3ouxjlbxtimyyxokb4btncxjbo44fbgxqy7tskinwad.onion |
 | [lv](https://ympppaper.github.io/ti_ylab/#/profiles?id=lv) | Start-maximized.com | 🔴 | 2021-12-02 | 4qbxi3i2oqmyzxsjg4fwe4aly3xkped52gq5orp6efpkeskvchqe27id.onion |
-| [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) | Lorenz | 🟢 |  | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
+| [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) | Lorenz | 🔴 | 2023-07-16 | lorenzmlwpzgxq736jzseuterytjueszsvznuibanxomlpkyxk6ksoyd.onion |
 | [lockbit2](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit2) | LOCKFILE | 🔴 | 2021-11-21 | zqaflhty5hyziovsxgqvj2mrz5e5rs6oqxzb54zolccfnvtn5w2johad.onion |
 | [lockbit2](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit2) | LockBit BLOG | 🔴 | 2022-06-17 | yq43odyrmzqvyezdindg2tokgogf3pn6bcdtvgczpz5a74tdxjbtk2yd.onion |
 | [lockbit2](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit2) | LockBit BLOG | 🔴 | 2022-06-17 | oyarbnujct53bizjguvolxou3rmuda2vr72osyexngbdkhqebwrzsnad.onion |
@@ -28,7 +28,7 @@
 | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) |  | 🔴 | 2021-05-01 | 4hzyuotli6maqa4u.onion |
 | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) | Vice Society - Official Site | 🟢 |  | vsociethok6sbprvevl4dlwbqrzyhxcxaqpvcqt5belwvsuxaxsutyad.onion |
 | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) | there is nothing... | 🔴 | 2022-09-21 | ecdmr42a34qovoph557zotkfvth4fsz56twvwgiylstjup4r5bpc4oad.onion |
-| [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) | Vice Society - Official Site | 🟢 |  | wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion |
+| [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) | Vice Society - Official Site | 🔴 | 2023-07-16 | wmp2rvrkecyx72i3x7ejhyd3yr6fn5uqo7wfus7cz7qnwr6uzhcbrwad.onion |
 | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) | Vice Society - Official Site | 🟢 |  | ssq4zimieeanazkzc5ld4v5hdibi2nzwzdibfh5n5w4pw5mcik76lzyd.onion |
 | [vicesociety](https://ympppaper.github.io/ti_ylab/#/profiles?id=vicesociety) | Vice Society - Official Site | 🟢 |  | ml3mjpuhnmse4kjij7ggupenw34755y4uj7t742qf7jg5impt5ulhkid.onion |
 | [xinglocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=xinglocker) | 星Team News | 🔴 | 2022-01-24 | xingnewj6m4qytljhfwemngm7r7rogrindbq7wrfeepejgxc3bwci7qd.onion |
@@ -134,7 +134,7 @@
 | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |   | 🟢 |  | vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion |
 | [cryp70n1c0d3](https://ympppaper.github.io/ti_ylab/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🔴 | 2023-05-25 | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
-| [dread](https://ympppaper.github.io/ti_ylab/#/profiles?id=dread) | dread Access Queue | 🟢 |  | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
+| [dread](https://ympppaper.github.io/ti_ylab/#/profiles?id=dread) | dread Access Queue | 🔴 | 2023-07-16 | dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion |
 | [againstthewest](https://ympppaper.github.io/ti_ylab/#/profiles?id=againstthewest) | Threat Actors - Onion Forums  - Internal Error | 🔴 | 2023-06-01 | giphvoitymatg4cv7bxqh5dz6sn6bfscywoat4qtslztkomf5lavrayd.onion |
 | [holyghost](https://ympppaper.github.io/ti_ylab/#/profiles?id=holyghost) | HolyGhost | 🔴 | 2022-04-22 | matmq3z3hiovia3voe2tix2x54sghc3tszj74xgdy4tqtypoycszqzqd.onion |
 | [nightsky](https://ympppaper.github.io/ti_ylab/#/profiles?id=nightsky) | Night Sky | 🔴 | 2022-01-25 | gg5ryfgogainisskdvh4y373ap3b2mxafcibeh2lvq5x7fx76ygcosad.onion |
@@ -148,7 +148,7 @@
 | [pandora](https://ympppaper.github.io/ti_ylab/#/profiles?id=pandora) | Pandora Data Leak | 🔴 | 2022-05-03 | vbfqeh5nugm6r2u2qvghsdxm3fotf5wbxb5ltv6vw77vus5frdpuaiid.onion |
 | [pandora](https://ympppaper.github.io/ti_ylab/#/profiles?id=pandora) |  | 🔴 | 2021-05-01 | pandoraxyz.xyz |
 | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) | Database Shop | 🔴 | 2022-05-09 | 3slz4povugieoi3tw7sblxoowxhbzxeju427cffsst5fo2tizepwatid.onion |
-| [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) | STORMOUS | 🟢 |  | h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion |
+| [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) | STORMOUS | 🔴 | 2023-07-16 | h3reihqb2y7woqdary2g3bmk3apgtxuyhx4j2ftovbhe3l5svev7bdyd.onion |
 | [leaktheanalyst](https://ympppaper.github.io/ti_ylab/#/profiles?id=leaktheanalyst) | #LeakTheAnalyst | 🔴 | 2022-08-05 | leaktheanalyst.fireeye62c3da3fnosymmmcqcty7rl7cjucpbkzaz275a4qs5fgkzhad.onion |
 | [ranion](https://ympppaper.github.io/ti_ylab/#/profiles?id=ranion) |  | 🟢 |  | ranionv3j2o7wrn3um6de33eccbchhg32mkgnnoi72enkpp7jc25h3ad.onion |
 | [x001xs](https://ympppaper.github.io/ti_ylab/#/profiles?id=x001xs) | BITCARDS - Prepaid cards | 🔴 | 2022-12-11 | nalr2uqsave7y2r235am5jsfiklfjh5h4jc5nztu3rzvmhklwt5j6kid.onion |
@@ -163,13 +163,13 @@
 | [cheers](https://ympppaper.github.io/ti_ylab/#/profiles?id=cheers) | Cheers! | 🔴 | 2022-09-20 | rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion |
 | [cheers](https://ympppaper.github.io/ti_ylab/#/profiles?id=cheers) | sembmarine | 🔴 | 2022-09-20 | crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion |
 | [darkangels](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkangels) | Home | 🔴 | 2022-07-18 | wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit BLOG | 🔴 | 2023-07-16 | lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🔴 | 2023-07-16 | lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🔴 | 2023-07-16 | lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitaptawjl6udhpd323uehekiyatj6ftcxmkwe5sezs4fqgpjpid.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitaptbdiajqtplcrigzgdjprwugkkut63nbvy2d5r4w2agyekqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | 502 Bad Gateway | 🟢 |  | lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion |
@@ -183,7 +183,7 @@
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🔴 | 2023-07-16 | lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🔴 | 2023-07-16 | lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit File Share | 🟢 |  | lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit Private Note | 🔴 | 2023-07-16 | lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit Private Note | 🟢 |  | lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion |
 | [bluesky](https://ympppaper.github.io/ti_ylab/#/profiles?id=bluesky) | BlueSky DECRYPTOR | 🟢 |  | ccpyeuptrlatb2piua4ukhnhi7lrxgerrcrj4p2b5uhbzqm2xgdjaqid.onion |
 | [solidbit](https://ympppaper.github.io/ti_ylab/#/profiles?id=solidbit) | SOLIDBIT LOGIN | 🔴 | 2022-08-27 | solidb2jco63vbhx4sfimnqmwhtdjk4jbbgq7a24cmzzkfse4rduxgid.onion |
 | [yanluowang](https://ympppaper.github.io/ti_ylab/#/profiles?id=yanluowang) | Yanluowang | 🔴 | 2022-11-01 | jukswsxbh3jsxuddvidrjdvwuohtsy4kxg2axbppiyclomt2qciyfoad.onion |
@@ -232,7 +232,7 @@
 | [donutleaks](https://ympppaper.github.io/ti_ylab/#/profiles?id=donutleaks) | _d0nut.::Files_ | 🔴 | 2022-10-26 | doq32rjiuomfghm5a4lyf3lwwakt2774tkv4ppsos6ueo5mhx7662gid.onion |
 | [donutleaks](https://ympppaper.github.io/ti_ylab/#/profiles?id=donutleaks) | __d0nut::files | 🟢 |  | dk4mkfzqai6ure62oukzgtypedmwlfq57yj2fube7j5wsoi6tuia7nyd.onion |
 | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) | Qilin | 🔴 | 2023-02-17 | ozsxj4hwxub7gio347ac7tyqqozvfioty37skqilzo2oqfs4cw2mgtyd.onion |
-| [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) | Qilin blog | 🔴 | 2023-07-16 | kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion |
+| [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) | Qilin blog | 🟢 |  | kbsqoivihgdmwczmxkbovk7ss2dcynitwhhfu5yw725dboqo5kthfaad.onion |
 | [diavol](https://ympppaper.github.io/ti_ylab/#/profiles?id=diavol) | Chat | 🔴 | 2022-10-31 | 7ypnbv3snejqmgce4kbewwvym4cm5j6lkzf2hra2hyhtsvwjaxwipkyd.onion |
 | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) | 404 Not Found | 🔴 | 2022-10-10 | 4s4lnfeujzo67fy2jebz2dxskez2gsqj2jeb35m75ktufxensdicqxad.onion |
 | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) | MONTI - Leaks site | 🔴 | 2023-07-16 | mblogci3rudehaagbryjznltdp33ojwzkq6hn2pckvjq33rycmzczpid.onion |
@@ -245,7 +245,7 @@
 | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) | Mallox - Blog | 🟢 |  | wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion |
 | [projectrelic](https://ympppaper.github.io/ti_ylab/#/profiles?id=projectrelic) | Project Relic. Dumps, leaks, news, announcements | 🔴 | 2023-06-03 | relic5zqwemjnu4veilml6prgyedj6phs7de3udhicuq53z37klxm6qd.onion |
 | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) | PLAY NEWS | 🟢 |  | k7kg3jqxang3wh7hnmaiokchk7qoebupfgoik6rha6mjpzwupwtj25yd.onion |
-| [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) | PLAY NEWS | 🔴 | 2023-07-16 | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion |
+| [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) | PLAY NEWS | 🟢 |  | mbrlkbtq5jonaqkurjwmxftytyn2ethqvbxfu4rgjbkkknndqwae6byd.onion |
 | [dataleak](https://ympppaper.github.io/ti_ylab/#/profiles?id=dataleak) | DataLeak | 🔴 | 2023-02-22 | woqjumaahi662ka26jzxyx7fznbp4kg3bsjar4b52tqkxgm2pylcjlad.onion |
 | [unsafeleak](https://ympppaper.github.io/ti_ylab/#/profiles?id=unsafeleak) | Home - UnSafeBlog | 🟢 |  | unsafeipw6wbkzzmj7yqp7bz6j7ivzynggmwxsm6u2wwfmfqrxqrrhyd.onion |
 | [nevada](https://ympppaper.github.io/ti_ylab/#/profiles?id=nevada) | NEVADA | 🔴 | 2023-04-21 | nevcorps5cvivjf6i2gm4uia7cxng5ploqny2rgrinctazjlnqr2yiyd.onion |
@@ -255,10 +255,10 @@
 | [0xFFF](https://ympppaper.github.io/ti_ylab/#/profiles?id=0xFFF) | U-bomb | 🔴 | 2023-05-29 | contiuevxdgdhn3zl2kubpajtfgqq4ssj2ipv6ujw7fwhggev3rk6hqd.onion |
 | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) | Ransomware blog – We will not give ourselves a nam | 🟢 |  | z6wkgghtoawog5noty5nxulmmt2zs7c3yvwr22v4czbffdoly2kl4uad.onion |
 | [darkbit01](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkbit01) |  | 🔴 | 2021-05-01 | iw6v2p3cruy7tqfup3yl4dgt4pfibfa3ai4zgnu5df2q3hus3lm7c7ad.onion |
-| [abyss](https://ympppaper.github.io/ti_ylab/#/profiles?id=abyss) |  | 🟢 |  | 3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion |
+| [abyss](https://ympppaper.github.io/ti_ylab/#/profiles?id=abyss) |  | 🔴 | 2023-07-16 | 3ev4metjirohtdpshsqlkrqcmxq6zu3d7obrdhglpy5jpbr7whmlfgqd.onion |
 | [moneymessage](https://ympppaper.github.io/ti_ylab/#/profiles?id=moneymessage) |  | 🔴 | 2023-07-16 | blogvl7tjyjvsfthobttze52w36wwiz34hrfcmorgvdzb6hikucb7aqd.onion |
-| [dunghill_leak](https://ympppaper.github.io/ti_ylab/#/profiles?id=dunghill_leak) | Dunghill Leak - Details | 🟢 |  | p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion |
-| [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |  | 🟢 |  | akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion |
+| [dunghill_leak](https://ympppaper.github.io/ti_ylab/#/profiles?id=dunghill_leak) | Dunghill Leak - Details | 🔴 | 2023-07-16 | p66slxmtum2ox4jpayco6ai3qfehd5urgrs4oximjzklxcol264driqd.onion |
+| [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |  | 🔴 | 2023-07-16 | akiral2iz6a7qgd3ayp3l6yub7xx2uep76idk3u2kollpj5z3z636bad.onion |
 | [darkpower](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkpower) |  | 🔴 | 2021-05-01 | powerj7kmpzkdhjg4szvcxxgktgk36ezpjxvtosylrpey7svpmrjyuyd.onion |
 | [cryptnet](https://ympppaper.github.io/ti_ylab/#/profiles?id=cryptnet) | CryptNet RECOVERY | 🟢 |  | cryptr3fmuv4di5uiczofjuypopr63x2gltlsvhur2ump4ebru2xd3yd.onion |
 | [cryptnet](https://ympppaper.github.io/ti_ylab/#/profiles?id=cryptnet) | CryptNet NEWS | 🟢 |  | blog6zw62uijolee7e6aqqnqaszs3ckr5iphzdzsazgrpvtqtjwqryid.onion |
