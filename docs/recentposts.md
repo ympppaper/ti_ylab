@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`academia21.com`](https://google.com/search?q=academia21.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`CashCall, Inc.`](https://google.com/search?q=CashCall%2C+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-25 | [`CYBERFREIGHT SYSTEMS MARITIMES INC.`](https://google.com/search?q=CYBERFREIGHT+SYSTEMS+MARITIMES+INC.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-25 | [`The Akin Law LLC`](https://google.com/search?q=The+Akin+Law+LLC) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-25 | [`Onsupport Corporation`](https://google.com/search?q=Onsupport+Corporation) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-06-25 | [`Texas Hotel and Lodging Association`](https://google.com/search?q=Texas+Hotel+and+Lodging+Association) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
