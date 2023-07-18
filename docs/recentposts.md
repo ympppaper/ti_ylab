@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-18 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-17 | [`Protected: Hidden name`](https://google.com/search?q=Protected%3A+Hidden+name) | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-25 | [`Onsupport Corporation`](https://google.com/search?q=Onsupport+Corporation) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-25 | [`Texas Hotel and Lodging Association`](https://google.com/search?q=Texas+Hotel+and+Lodging+Association) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-24 | [`Peter Mark`](https://google.com/search?q=Peter+Mark) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-06-24 | [`Jacobs Farm`](https://google.com/search?q=Jacobs+Farm) | [ransomexx](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomexx) |
