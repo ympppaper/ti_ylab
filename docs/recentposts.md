@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-20 | [`Magnolia Steel`](https://google.com/search?q=Magnolia+Steel) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Campbell Killin Brittan & Ray LLC`](https://google.com/search?q=Campbell+Killin+Brittan+%26+Ray+LLC) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-20 | [`Entegra`](https://google.com/search?q=Entegra) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-20 | [`cityserve-mech.co.uk`](https://google.com/search?q=cityserve-mech.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-28 | [`Cambridge Group of Clubs`](https://google.com/search?q=Cambridge+Group+of+Clubs) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-06-27 | [`COMPASS INFRASTRUCTURE GROUP`](https://google.com/search?q=COMPASS+INFRASTRUCTURE+GROUP) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
 | 2023-06-27 | [`ITW Food Equipment Group`](https://google.com/search?q=ITW+Food+Equipment+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-06-27 | [`SITARA`](https://google.com/search?q=SITARA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
