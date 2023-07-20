@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-20 | [`New Braunfels Cardiology`](https://google.com/search?q=New+Braunfels+Cardiology) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Sea Force IX`](https://google.com/search?q=Sea+Force+IX) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-20 | [`Centennial Management`](https://google.com/search?q=Centennial+Management) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-20 | [`Health Springs Medical Center `](https://google.com/search?q=Health+Springs+Medical+Center+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-27 | [`MAXIMUM PRIME ALIMENTOS EIRELI`](https://google.com/search?q=MAXIMUM+PRIME+ALIMENTOS+EIRELI) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-27 | [`JOB-SA BETON J.O.B SA`](https://google.com/search?q=JOB-SA+BETON+J.O.B+SA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-06-27 | [`London Capital Group (LCG)`](https://google.com/search?q=London+Capital+Group+%28LCG%29) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-06-26 | [`Knights of Old Group`](https://google.com/search?q=Knights+of+Old+Group) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
