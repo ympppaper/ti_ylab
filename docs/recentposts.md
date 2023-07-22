@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-22 | [`Hungarian Investment Promotion Agency Press Release`](https://google.com/search?q=Hungarian+Investment+Promotion+Agency+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
 | 2023-07-22 | [`Bartlett Dairy`](https://google.com/search?q=Bartlett+Dairy) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-07-21 | [`Anesco Ltd`](https://google.com/search?q=Anesco+Ltd) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-21 | [`Azimut.it`](https://google.com/search?q=Azimut.it) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-06-29 | [`thaire`](https://google.com/search?q=thaire) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-06-29 | [`Wilcom`](https://google.com/search?q=Wilcom) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-06-29 | [`Stoughton Trailers`](https://google.com/search?q=Stoughton+Trailers) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-06-29 | [`CentroMed`](https://google.com/search?q=CentroMed) | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) |
