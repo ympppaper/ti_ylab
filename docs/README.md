@@ -8,7 +8,7 @@ _july 23rd, 2023_
 
 - There have been `198` posts within the `month of july`
 
-- There have been `1068` posts within the `last 90 days`
+- There have been `1066` posts within the `last 90 days`
 
 - There have been `2239` posts within the `year of 2023`
 
