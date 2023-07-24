@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-24 | [`BION_2`](https://google.com/search?q=BION_2) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-07-24 | [`SBM`](https://google.com/search?q=SBM) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-24 | [`dynamite`](https://google.com/search?q=dynamite) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
 | 2023-07-24 | [`EJM Engineered Systems`](https://google.com/search?q=EJM+Engineered+Systems) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-01 | [`Eastside Union School District`](https://google.com/search?q=Eastside+Union+School+District) | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) |
 | 2023-07-01 | [`Ashley HomeStore`](https://google.com/search?q=Ashley+HomeStore) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
 | 2023-07-01 | [`**l***** C***********`](https://google.com/search?q=%2A%2Al%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
-| 2023-07-01 | [`Blount Fine Foods`](https://google.com/search?q=Blount+Fine+Foods) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
