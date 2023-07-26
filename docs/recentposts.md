@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`CF Assicurazioni`](https://google.com/search?q=CF+Assicurazioni) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-26 | [`Globacom Limited`](https://google.com/search?q=Globacom+Limited) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-26 | [`Kersey  CO`](https://google.com/search?q=Kersey++CO) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-26 | [`FANSIPAN CONSTRUCTION CONSULTANTS CO.,LTD`](https://google.com/search?q=FANSIPAN+CONSTRUCTION+CONSULTANTS+CO.%2CLTD) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-05 | [`Murphy`](https://google.com/search?q=Murphy) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-05 | [`Avalign Technologies`](https://google.com/search?q=Avalign+Technologies) | [blackbyte](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbyte) |
 | 2023-07-05 | [`mitr.com`](https://google.com/search?q=mitr.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-07-05 | [`Portugal Scotturb Data Leaked`](https://google.com/search?q=Portugal+Scotturb+Data+Leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
