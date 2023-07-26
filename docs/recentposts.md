@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`DV8 Technology Group`](https://google.com/search?q=DV8+Technology+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-26 | [`CROWD`](https://google.com/search?q=CROWD) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-26 | [`BoomData -Data and Analytics Consultancy`](https://google.com/search?q=BoomData+-Data+and+Analytics+Consultancy) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-26 | [`BoomData - Data &amp;amp; Analytics Consultancy`](https://google.com/search?q=BoomData+-+Data+%26amp%3Bamp%3B+Analytics+Consultancy) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-05 | [`eurosupport.com`](https://google.com/search?q=eurosupport.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-05 | [`Hoosier Equipment company`](https://google.com/search?q=Hoosier+Equipment+company) | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) |
 | 2023-07-04 | [`Tour Partner Group`](https://google.com/search?q=Tour+Partner+Group) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
-| 2023-07-04 | [`Yunus Emre Institute Turkey`](https://google.com/search?q=Yunus+Emre+Institute+Turkey) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
