@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-26 | [`BoomData -Data and Analytics Consultancy`](https://google.com/search?q=BoomData+-Data+and+Analytics+Consultancy) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-26 | [`BoomData - Data &amp;amp; Analytics Consultancy`](https://google.com/search?q=BoomData+-+Data+%26amp%3Bamp%3B+Analytics+Consultancy) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-25 | [`de----int`](https://google.com/search?q=de----int) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-07-25 | [`Charles & Colvard Lt d.`](https://google.com/search?q=Charles+%26+Colvard+Lt+d.) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-04 | [`Tour Partner Group`](https://google.com/search?q=Tour+Partner+Group) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-07-04 | [`Yunus Emre Institute Turkey`](https://google.com/search?q=Yunus+Emre+Institute+Turkey) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-07-04 | [`Polanglo`](https://google.com/search?q=Polanglo) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-07-04 | [`snjb.net`](https://google.com/search?q=snjb.net) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
