@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-27 | [`Morehead State Unive rsity (MSU)`](https://google.com/search?q=Morehead+State+Unive+rsity+%28MSU%29) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-27 | [`Offutt Nord`](https://google.com/search?q=Offutt+Nord) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-27 | [`https://www.zoominfo.com/c/it-luggage-ltd/356677571`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fit-luggage-ltd%2F356677571) | [blacksuit](https://ympppaper.github.io/ti_ylab/#/profiles?id=blacksuit) |
 | 2023-07-27 | [`Spectra Industrial`](https://google.com/search?q=Spectra+Industrial) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-07 | [`Ella Insurance Brokerage`](https://google.com/search?q=Ella+Insurance+Brokerage) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-06 | [`A** **************`](https://google.com/search?q=A%2A%2A+%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-06 | [`cls-group.com`](https://google.com/search?q=cls-group.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-07-06 | [`chasc.org`](https://google.com/search?q=chasc.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
