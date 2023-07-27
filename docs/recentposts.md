@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-27 | [`Spectra Industrial`](https://google.com/search?q=Spectra+Industrial) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-27 | [`West Cargo`](https://google.com/search?q=West+Cargo) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
 | 2023-07-27 | [`scmh.org.tw`](https://google.com/search?q=scmh.org.tw) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-26 | [`Azimut - Time of publication!`](https://google.com/search?q=Azimut+-+Time+of+publication%21) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-06 | [`chasc.org`](https://google.com/search?q=chasc.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-06 | [`betalandservices.com`](https://google.com/search?q=betalandservices.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-06 | [`Pinnergy`](https://google.com/search?q=Pinnergy) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-07-06 | [`Bangladesh Krishi Bank`](https://google.com/search?q=Bangladesh+Krishi+Bank) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
