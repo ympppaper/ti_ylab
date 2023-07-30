@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-07-30 | [`decimal-point-analytics-pvt`](https://google.com/search?q=decimal-point-analytics-pvt) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-07-30 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`AT%26S`](https://google.com/search?q=AT%2526S) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`Village Church of Barrington`](https://google.com/search?q=Village+Church+of+Barrington) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-08 | [`ROBERT L BAYLESS PRODUCER LLC`](https://google.com/search?q=ROBERT+L+BAYLESS+PRODUCER+LLC) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-08 | [`Uniquify`](https://google.com/search?q=Uniquify) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-08 | [`Geneva Software`](https://google.com/search?q=Geneva+Software) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-07-08 | [`MUJI Europe Holdings Limited`](https://google.com/search?q=MUJI+Europe+Holdings+Limited) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
