@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-01 | [`TELNET Redes Inteligentes S.A.`](https://google.com/search?q=TELNET+Redes+Inteligentes+S.A.) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-01 | [`Retail Information Systems`](https://google.com/search?q=Retail+Information+Systems) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-01 | [`persingerlaw.com`](https://google.com/search?q=persingerlaw.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`westoaksschool.co.uk`](https://google.com/search?q=westoaksschool.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-11 | [`microport.com`](https://google.com/search?q=microport.com) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-07-11 | [`panoramaeyecare.com`](https://google.com/search?q=panoramaeyecare.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-11 | [`gis4.addison-il`](https://google.com/search?q=gis4.addison-il) | [cuba](https://ympppaper.github.io/ti_ylab/#/profiles?id=cuba) |
-| 2023-07-10 | [`Customer Elation - Business Information`](https://google.com/search?q=Customer+Elation+-+Business+Information) | [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) |
