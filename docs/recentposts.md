@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-01 | [`westoaksschool.co.uk`](https://google.com/search?q=westoaksschool.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-01 | [`paretophone.com`](https://google.com/search?q=paretophone.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-31 | [`obrelli.it`](https://google.com/search?q=obrelli.it) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-31 | [`nbcc.org`](https://google.com/search?q=nbcc.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-10 | [`Customer Elation - Business Information`](https://google.com/search?q=Customer+Elation+-+Business+Information) | [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) |
 | 2023-07-10 | [`Green Diamond`](https://google.com/search?q=Green+Diamond) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-10 | [`Hamre Schumann Muell er & Larson HSML`](https://google.com/search?q=Hamre+Schumann+Muell+er+%26+Larson+HSML) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-07-10 | [`Belize Electricity Limited - Leaked`](https://google.com/search?q=Belize+Electricity+Limited+-+Leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
