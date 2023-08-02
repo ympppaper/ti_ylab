@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`Helen F. Dalton Lawyers`](https://google.com/search?q=Helen+F.+Dalton+Lawyers) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-02 | [`Garage Living, The Dispenser USA`](https://google.com/search?q=Garage+Living%2C+The+Dispenser+USA) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-02 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-02 | [`Bickel & Brewer - Press Release`](https://google.com/search?q=Bickel+%26+Brewer+-+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-12 | [`Ministerio de Cultura de la RepÃºblica de Cuba`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Rep%C3%83%C2%BAblica+de+Cuba) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
 | 2023-07-12 | [`Eastin Hotel Makkasan Bangkok was hacked. Customers' financial and personal information ha`](https://google.com/search?q=Eastin+Hotel+Makkasan+Bangkok+was+hacked.+Customers%27+financial+and+personal+information+ha) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-12 | [`Algeiba.com has a critical level of security on its network. Customer and partner data is `](https://google.com/search?q=Algeiba.com+has+a+critical+level+of+security+on+its+network.+Customer+and+partner+data+is+) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-07-12 | [`Amber Court 2020 was hacking. A lot of customers' personal information was stolen.`](https://google.com/search?q=Amber+Court+2020+was+hacking.+A+lot+of+customers%27+personal+information+was+stolen.) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
