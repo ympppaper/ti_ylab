@@ -37,7 +37,7 @@
 | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) | Home Page of Ragnar_Locker Leaks site | 🟢 |  | rgleaktxuey67yrgspmhvtnrqtgogur35lwdrup4d3igtbm3pupc4lyd.onion |
 | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |  | 🔴 | 2021-05-01 | p6o7m73ujalhgkiv.onion |
 | [clop](https://ympppaper.github.io/ti_ylab/#/profiles?id=clop) |  | 🔴 | 2021-05-01 | ekbgzchl6x2ias37.onion |
-| [clop](https://ympppaper.github.io/ti_ylab/#/profiles?id=clop) | Access Queue | 🟢 |  | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
+| [clop](https://ympppaper.github.io/ti_ylab/#/profiles?id=clop) | Access Queue | 🔴 | 2023-08-01 | santat7kpllt6iyvqbr7q4amdv6dzrh6paatvyrzl7ry3zm72zigf4ad.onion |
 | [netwalker](https://ympppaper.github.io/ti_ylab/#/profiles?id=netwalker) |  | 🔴 | 2021-05-01 | rnfdsgm6wb6j6su5txkekw4u4y47kp2eatvu7d6xhyn5cs4lt4pdrqqd.onion |
 | [doppelpaymer](https://ympppaper.github.io/ti_ylab/#/profiles?id=doppelpaymer) | Start-maximized.com | 🔴 | 2021-09-23 | hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion |
 | [revil](https://ympppaper.github.io/ti_ylab/#/profiles?id=revil) | 404 Not Found | 🔴 | 2022-08-19 | dnpscnbaix6nkwvystl3yxglz7nteicqrou3t75tpcc5532cztc46qyd.onion |
@@ -64,7 +64,7 @@
 | [haron](https://ympppaper.github.io/ti_ylab/#/profiles?id=haron) | Clients page | 🔴 | 2022-01-31 | ft4zr2jzlqoyob7yg4fcpwyt37hox3ajajqnfkdvbfrkjioyunmqnpad.onion |
 | [darkleakmarket](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkleakmarket) | Dark Leak Market | 🔴 | 2021-10-07 | 54rdhzjzc4ids4u4wata4zr4ywfon5wpz2ml4q3avelgadpvmdal2vqd.onion |
 | [darkleakmarket](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkleakmarket) | Anonymous marketplace – guaranted secure escrow sy | 🔴 | 2023-07-31 | aby6efzmp7jzbwgidgqc6ghxi2vwpo6d7eaood5xuoxutrfofsmzcjqd.onion |
-| [darkleakmarket](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkleakmarket) | fresh CC Fullz CVV autoShop Buy Fullz Online – Ful | 🟢 |  | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |
+| [darkleakmarket](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkleakmarket) | fresh CC Fullz CVV autoShop Buy Fullz Online – Ful | 🔴 | 2023-08-01 | darklmmmfuonklpy6s3tmvk5mrcdi7iapaw6eka45esmoryiiuug6aid.onion |
 | [darkleakmarket](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkleakmarket) |  | 🔴 | 2023-07-11 | darkleakyqmv62eweqwy4dnhaijg4m4dkburo73pzuqfdumcntqdokyd.onion |
 | [prometheus](https://ympppaper.github.io/ti_ylab/#/profiles?id=prometheus) |  | 🔴 | 2021-05-01 | promethw27cbrcot.onion |
 | [blackmatter](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackmatter) | BlackMatter | 🔴 | 2021-11-04 | blackmax7su6mbwtcyo3xwtpfxpm356jjqrs34y4crcytpw7mifuedyd.onion |
@@ -130,7 +130,7 @@
 | [unknown](https://ympppaper.github.io/ti_ylab/#/profiles?id=unknown) |  | 🔴 | 2021-05-01 | darktorhvabc652txfc575oendhykqcllb7bh7jhhsjduocdlyzdbmqd.onion |
 | [rransom](https://ympppaper.github.io/ti_ylab/#/profiles?id=rransom) |  | 🔴 | 2023-04-14 | t2tqvp4pctcr7vxhgz5yd5x4ino5tw7jzs3whbntxirhp32djhi7q3id.onion |
 | [babyduck](https://ympppaper.github.io/ti_ylab/#/profiles?id=babyduck) |  | 🔴 | 2021-05-01 | babydovegkmhbontykziyq7qivwzy33mu4ukqefe4mqpiiwd3wibnjqd.onion |
-| [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |  | 🟢 |  | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
+| [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |  | 🔴 | 2023-08-01 | alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion |
 | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |  | 🔴 | 2021-05-01 | 2cuqgeerjdba2rhdiviezodpu3lc4qz2sjf4qin6f7std2evleqlzjid.onion |
 | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |   | 🟢 |  | vqifktlreqpudvulhbzmc5gocbeawl67uvs2pttswemdorbnhaddohyd.onion |
 | [cryp70n1c0d3](https://ympppaper.github.io/ti_ylab/#/profiles?id=cryp70n1c0d3) | -*- CRYP70N1C0D3 Team -*- | 🔴 | 2023-07-31 | 7k4yyskpz3rxq5nyokf6ztbpywzbjtdfanweup3skctcxopmt7tq7eid.onion |
@@ -159,13 +159,13 @@
 | [onyx](https://ympppaper.github.io/ti_ylab/#/profiles?id=onyx) | VSOP NEWS | 🔴 | 2023-01-02 | mrdxtxy6vqeqbmb4rvbvueh2kukb3e3mhu3wdothqn7242gztxyzycid.onion |
 | [mindware](https://ympppaper.github.io/ti_ylab/#/profiles?id=mindware) | DataLeakBlog | 🔴 | 2022-08-16 | dfpc7yvle5kxmgg6sbcp5ytggy3oeob676bjgwcwhyr2pwcrmbvoilqd.onion |
 | [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) | ©RansomHouse | 🔴 | 2022-10-01 | xw7au5pnwtl6lozbsudkmyd32n6gnqdngitjdppybudan3x3pjgpmpid.onion |
-| [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) |  | 🟢 |  | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion |
+| [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) |  | 🔴 | 2023-08-01 | zohlm7ahjwegcedoz7lrdrti7bvpofymcayotp744qhx6gjmxbuo2yid.onion |
 | [cheers](https://ympppaper.github.io/ti_ylab/#/profiles?id=cheers) | Cheers! | 🔴 | 2022-09-20 | rwiajgajdr4kzlnrj5zwebbukpcbrjhupjmk6gufxv6tg7myx34iocad.onion |
 | [cheers](https://ympppaper.github.io/ti_ylab/#/profiles?id=cheers) | sembmarine | 🔴 | 2022-09-20 | crkfkmrh4qzbddfrl2axnkvjp5tgwx73d7lq4oycsfxc7pfgbfhtfiid.onion |
 | [darkangels](https://ympppaper.github.io/ti_ylab/#/profiles?id=darkangels) | Home | 🔴 | 2022-07-18 | wemo2ysyeq6km2nqhcrz63dkdhez3j25yw2nvn7xba2z4h7v7gyrfgid.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit BLOG | 🟢 |  | lockbitapt2d73krlbewgv27tquljgxr33xbwwsp6rkyieto7u4ncead.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit BLOG | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit BLOG | 🟢 |  | lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit Anti-DDoS | 🟢 |  | lockbitapt2yfbt7lchxejug47kmqvqqxvvjpqkmevv4l3azl3gy6pyd.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitapt34kvrip6xojylohhxrwsvpzdffgs5z4pbbsywnzsbdguqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitapt5x4zkjbcqmz6frdhecqqgadevyiwqxukksspnlidyvd7qd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitapt6vx57t3eeqjofwgcglmutr3a35nygvokja5uuccip4ykyd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion |
@@ -174,13 +174,13 @@
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitaptc2iq4atewz2ise62q63wfktyrl4qtwuk5qax262kgtzjqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitapt72iw55njgnqpymggskg5yp75ry7rirtdg4m7i42artsbqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitsupa7e3b4pkn4mgkgojrl5iqgx24clbzc4xm7i6jeetsia3qd.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit LOGIN | 🟢 |  | lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitsupdwon76nzykzblcplixwts4n4zoecugz2bxabtapqvmzqqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitsupn2h6be2cnqpvncyhj4rgmnwn44633hnzzmtxdvjoqlp7yd.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit LOGIN | 🟢 |  | lockbitsupo7vv5vcl3jxpsdviopwvasljqcstym6efhh6oze7c6xjad.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitsupqfyacidr6upt6nhhyipujvaablubuevxj6xy3frthvr3yd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit LOGIN | 🟢 |  | lockbitsupt7nr3fa6e7xyb73lk6bw6rcneqhoyblniiabj4uwvzapqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit LOGIN | 🟢 |  | lockbitsupuhswh4izvoucoxsbnotkmgq6durg7kficg6u33zfvq3oyd.onion |
-| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit LOGIN | 🟢 |  | lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion |
+| [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |  | 🟢 |  | lockbitsupxcjntihbmat4rrh7ktowips2qzywh6zer5r3xafhviyhqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit LOGIN | 🟢 |  | lockbitsupq3g62dni2f36snrdb4n5qzqvovbtkt5xffw3draxk6gwqd.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit File Share | 🟢 |  | lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion |
 | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) | LockBit Private Note | 🟢 |  | lockbitnotexk2vnf2q2zwjefsl3hjsnk4u74vq4chxrqpjclfydk4ad.onion |
@@ -190,7 +190,7 @@
 | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) | NOKOYAWA Leaks | 🔴 | 2022-07-11 | lirncvjfmdhv6samxvvlohfqx7jklfxoxj7xn3fh7qeabs3taemdsdqd.onion |
 | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) | NOKOYAWA Leaks | 🔴 | 2023-01-25 | 6yofnrq7evqrtz3tzi3dkbrdovtywd35lx3iqbc5dyh367nrdh4jgfyd.onion |
 | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) | Wall of Shame | 🟢 |  | nokoleakb76znymx443veg4n6fytx6spck6pc7nkr4dvfuygpub6jsid.onion |
-| [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |  | 🔴 | 2023-08-01 | noko65rmtaiqyt2cw2h4jrxe3u56t2k7ov3nd22hoji4c5vnfib2i4yd.onion |
+| [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |  | 🟢 |  | noko65rmtaiqyt2cw2h4jrxe3u56t2k7ov3nd22hoji4c5vnfib2i4yd.onion |
 | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) | Chat | 🟢 |  | omx5iqrdbsoitf3q4xexrqw5r5tfw7vp3vl3li3lfo7saabxazshnead.onion |
 | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) | Magazine | 🟢 |  | 3f7nxkjway3d223j27lyad7v5cgmyaifesycvmwq7i7cbs23lb6llryd.onion |
 | [karakurt](https://ympppaper.github.io/ti_ylab/#/profiles?id=karakurt) |  | 🔴 | 2021-05-01 | karaleaks.com |
@@ -204,7 +204,7 @@
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z2og4jlsmdy7dzty3g42eu3gh2sx2b6ywtvhrjtss7li4fyd.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z355oalq4hiy5p7de64l6rsqutwlvydqje56uvevcc57r6qd.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z36ynytxwjzuoao46ck7b3753gpedary3qvuizn3iczhe4id.onion |
-| [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion |
+| [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🔴 | 2023-08-01 | lockbit7z37ntefjdbjextn6tmdkry4j546ejnru5cejeguitiopvhad.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z3azdoxdpqxzliszutufbc2fldagztdu47xyucp25p4xtqad.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z3ddvg5vuez2vznt73ljqgwx5tnuqaa2ye7lns742yiv2zyd.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z3hv7ev5knxbrhsvv2mmu2rddwqizdz4vwfvxt5izrq6zqqd.onion |
@@ -216,7 +216,7 @@
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z55tuwaflw2c7torcryobdvhkcgvivhflyndyvcrexafssad.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z57mkicfkuq44j6yrpu5finwvjllczkkp2uvdedsdonjztyd.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z5ehshj6gzpetw5kso3onts6ty7wrnneya5u4aj3vzkeoaqd.onion |
-| [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🔴 | 2023-08-01 | lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion |
+| [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z5hwf6ywfuzipoa42tjlmal3x5suuccngsamsgklww2xgyqd.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z5ltrhzv46lsg447o3cx2637dloc3qt4ugd3gr2xdkkkeayd.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z6choojah4ipvdpzzfzxxchjbecnmtn4povk6ifdvx2dpnid.onion |
 | [lockbit3_fs](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3_fs) | LockBit - Leaked | 🟢 |  | lockbit7z6dqziutocr43onmvpth32njp4abfocfauk2belljjpobxyd.onion |
@@ -239,7 +239,7 @@
 | [sparta](https://ympppaper.github.io/ti_ylab/#/profiles?id=sparta) | Blog | 🔴 | 2022-10-01 | zj2ex44e2b2xi43m2txk4uwi3l55aglsarre7repw7rkfwpj54j46iqd.onion |
 | [chilelocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=chilelocker) | Login | 🔴 | 2023-04-19 | z6vidveub2ypo3d3x7omsmcxqwxkkmvn5y3paoufyd2tt4bfbkg33kid.onion |
 | [dagonlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=dagonlocker) | The Chat | 🔴 | 2022-11-10 | dgnh6p5uq234zry7qx7bh73hj5ht3jqisgfet6s7j7uyas5i46xfdkyd.onion |
-| [royal](https://ympppaper.github.io/ti_ylab/#/profiles?id=royal) | Royal | 🟢 |  | royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion |
+| [royal](https://ympppaper.github.io/ti_ylab/#/profiles?id=royal) | Royal | 🔴 | 2023-08-01 | royal2xthig3ou5hd7zsliqagy6yygk2cdelaxtni2fyad6dpmpxedid.onion |
 | [royal](https://ympppaper.github.io/ti_ylab/#/profiles?id=royal) |  | 🟢 |  | royal4ezp7xrbakkus3oofjw6gszrohpodmdnfbe5e4w3og5sm7vb3qd.onion |
 | [shaoleaks](https://ympppaper.github.io/ti_ylab/#/profiles?id=shaoleaks) | Shao leaks team | 🔴 | 2022-11-01 | crptd5sv5bdz6hovrbkac6mnp3rt7zij62njsqwh5a6ldd3asxdd22qd.onion |
 | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) | Mallox - Blog | 🟢 |  | wtyafjyhwqrgo4a45wdvvwhen3cx4euie73qvlhkhvlrexljoyuklaad.onion |
