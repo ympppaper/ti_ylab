@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-02 | [`DAL-TECH Engineering`](https://google.com/search?q=DAL-TECH+Engineering) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-02 | [`Coral Resort`](https://google.com/search?q=Coral+Resort) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-02 | [`Professionnel France`](https://google.com/search?q=Professionnel+France) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-01 | [`ACTIVA Group`](https://google.com/search?q=ACTIVA+Group) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-12 | [`Weitkamp · Hirsch and Kollegen Steuerberatungsgesellschaft mbH`](https://google.com/search?q=Weitkamp+%C2%B7+Hirsch+and+Kollegen+Steuerberatungsgesellschaft+mbH) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-12 | [`Kansas medical center LLC`](https://google.com/search?q=Kansas+medical+center+LLC) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-12 | [`Danbury Public Schools`](https://google.com/search?q=Danbury+Public+Schools) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-07-12 | [`Advanced Fiberglass Industries`](https://google.com/search?q=Advanced+Fiberglass+Industries) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
