@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-03 | [`riggsabney`](https://google.com/search?q=riggsabney) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-03 | [`Guido`](https://google.com/search?q=Guido) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-03 | [`fec-corp.com`](https://google.com/search?q=fec-corp.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-03 | [`bestmotel.de`](https://google.com/search?q=bestmotel.de) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-13 | [`Henock Construction`](https://google.com/search?q=Henock+Construction) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-13 | [`Ministerio de Cultura de la Republica de Cuba " STORMOUS + GhostSec "`](https://google.com/search?q=Ministerio+de+Cultura+de+la+Republica+de+Cuba+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
 | 2023-07-13 | [`Ministry of Foreign Trade " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Foreign+Trade+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
-| 2023-07-13 | [`Ministry of Energy and Mines (Cuba) " STORMOUS + GhostSec "`](https://google.com/search?q=Ministry+of+Energy+and+Mines+%28Cuba%29+%22+STORMOUS+%2B+GhostSec+%22) | [stormous](https://ympppaper.github.io/ti_ylab/#/profiles?id=stormous) |
