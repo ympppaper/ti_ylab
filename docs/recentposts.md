@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-04 | [`Pharmatech Repblica Dominicana was hacked. All sensitive company and customer information `](https://google.com/search?q=Pharmatech+Repblica+Dominicana+was+hacked.+All+sensitive+company+and+customer+information+) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-04 | [`Grupo Garza Ponce was hacked! Due to a massive company vulnerability, more than 2 TB of se`](https://google.com/search?q=Grupo+Garza+Ponce+was+hacked%21+Due+to+a+massive+company+vulnerability%2C+more+than+2+TB+of+se) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-04 | [`SBS Construction`](https://google.com/search?q=SBS+Construction) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-04 | [`Koury Engineering`](https://google.com/search?q=Koury+Engineering) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-14 | [`Chin Hin Group`](https://google.com/search?q=Chin+Hin+Group) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-14 | [`The Traffic Tech`](https://google.com/search?q=The+Traffic+Tech) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`Quikcard Solutions Inc.`](https://google.com/search?q=Quikcard+Solutions+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-07-14 | [`Jadranka Group`](https://google.com/search?q=Jadranka+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
