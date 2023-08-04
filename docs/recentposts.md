@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-04 | [`Ofimedic`](https://google.com/search?q=Ofimedic) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-04 | [`Abatti Companies - Press Release`](https://google.com/search?q=Abatti+Companies+-+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
 | 2023-08-04 | [`TGRWA`](https://google.com/search?q=TGRWA) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-04 | [`Datawatch Systems`](https://google.com/search?q=Datawatch+Systems) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-14 | [`ANL Packaging`](https://google.com/search?q=ANL+Packaging) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`CPA Advisors Group`](https://google.com/search?q=CPA+Advisors+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-14 | [`eyedoc.com.na`](https://google.com/search?q=eyedoc.com.na) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-07-14 | [`BTU`](https://google.com/search?q=BTU) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
