@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-08 | [`ZESA Holdings`](https://google.com/search?q=ZESA+Holdings) | [everest](https://ympppaper.github.io/ti_ylab/#/profiles?id=everest) |
 | 2023-08-08 | [`Magic Micro Computers`](https://google.com/search?q=Magic+Micro+Computers) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-08 | [`Emerson School District`](https://google.com/search?q=Emerson+School+District) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-08 | [`CH informatica`](https://google.com/search?q=CH+informatica) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`berg-life.com`](https://google.com/search?q=berg-life.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`dixiesfed.com`](https://google.com/search?q=dixiesfed.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`academia21.com`](https://google.com/search?q=academia21.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-07-18 | [`CashCall, Inc.`](https://google.com/search?q=CashCall%2C+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
