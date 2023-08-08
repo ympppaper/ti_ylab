@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-08 | [`Emerson School District`](https://google.com/search?q=Emerson+School+District) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-08 | [`CH informatica`](https://google.com/search?q=CH+informatica) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-08-08 | [`Räddningstjänsten Vä stra Blekinge`](https://google.com/search?q=R%C3%A4ddningstj%C3%A4nsten+V%C3%A4+stra+Blekinge) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-07 | [`mercedes-benz.co.th`](https://google.com/search?q=mercedes-benz.co.th) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`academia21.com`](https://google.com/search?q=academia21.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-18 | [`CashCall, Inc.`](https://google.com/search?q=CashCall%2C+Inc.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
-| 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
