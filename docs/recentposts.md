@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-08 | [`Räddningstjänsten Vä stra Blekinge`](https://google.com/search?q=R%C3%A4ddningstj%C3%A4nsten+V%C3%A4+stra+Blekinge) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-07 | [`mercedes-benz.co.th`](https://google.com/search?q=mercedes-benz.co.th) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-08-07 | [`G***** *******`](https://google.com/search?q=G%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-07 | [`T********`](https://google.com/search?q=T%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-18 | [`Seasia Infotech`](https://google.com/search?q=Seasia+Infotech) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-18 | [`Ningbo Joyson Electronic Corp.`](https://google.com/search?q=Ningbo+Joyson+Electronic+Corp.) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-18 | [`Wasserstrom`](https://google.com/search?q=Wasserstrom) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
-| 2023-07-17 | [`Protected: Hidden name`](https://google.com/search?q=Protected%3A+Hidden+name) | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) |
