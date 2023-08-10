@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-10 | [`EAI`](https://google.com/search?q=EAI) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-10 | [`Optimum Technology`](https://google.com/search?q=Optimum+Technology) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-10 | [`Boson`](https://google.com/search?q=Boson) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-10 | [`The Belt Railway Com pany of Chicago`](https://google.com/search?q=The+Belt+Railway+Com+pany+of+Chicago) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`New Braunfels Cardiology`](https://google.com/search?q=New+Braunfels+Cardiology) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Sea Force IX`](https://google.com/search?q=Sea+Force+IX) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-20 | [`Centennial Management`](https://google.com/search?q=Centennial+Management) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-07-20 | [`Health Springs Medical Center `](https://google.com/search?q=Health+Springs+Medical+Center+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
