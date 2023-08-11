@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-11 | [`Algorry Zappia & Associates`](https://google.com/search?q=Algorry+Zappia+%26+Associates) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-10 | [`EAI`](https://google.com/search?q=EAI) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-10 | [`Optimum Technology`](https://google.com/search?q=Optimum+Technology) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-10 | [`Boson`](https://google.com/search?q=Boson) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-20 | [`cityserve-mech.co.uk`](https://google.com/search?q=cityserve-mech.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-07-20 | [`New Braunfels Cardiology`](https://google.com/search?q=New+Braunfels+Cardiology) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-20 | [`Sea Force IX`](https://google.com/search?q=Sea+Force+IX) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-07-20 | [`Centennial Management`](https://google.com/search?q=Centennial+Management) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
