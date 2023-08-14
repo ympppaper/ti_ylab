@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`CB Energy Australlia`](https://google.com/search?q=CB+Energy+Australlia) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-14 | [`econsult.com`](https://google.com/search?q=econsult.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`Saint Xavier University`](https://google.com/search?q=Saint+Xavier+University) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-14 | [`Agriloja.pt`](https://google.com/search?q=Agriloja.pt) | [everest](https://ympppaper.github.io/ti_ylab/#/profiles?id=everest) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-22 | [`Chan &amp;amp; Associates`](https://google.com/search?q=Chan+%26amp%3Bamp%3B+Associates) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-22 | [`Samson Electric`](https://google.com/search?q=Samson+Electric) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-22 | [`Siden & Associates Press Release`](https://google.com/search?q=Siden+%26+Associates+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
-| 2023-07-22 | [`Hungarian Investment Promotion Agency Press Release`](https://google.com/search?q=Hungarian+Investment+Promotion+Agency+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
