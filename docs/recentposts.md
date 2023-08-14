@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`Freeport-McMoran - NYSE: FCX`](https://google.com/search?q=Freeport-McMoran+-+NYSE%3A+FCX) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-14 | [`qbcqatar.com.qa`](https://google.com/search?q=qbcqatar.com.qa) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`leecorpinc.com`](https://google.com/search?q=leecorpinc.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`CB Energy Australlia`](https://google.com/search?q=CB+Energy+Australlia) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-23 | [`Cafe Britt`](https://google.com/search?q=Cafe+Britt) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-07-23 | [`THE COLLINS LAW FIRM`](https://google.com/search?q=THE+COLLINS+LAW+FIRM) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-07-23 | [`Chan and Associates`](https://google.com/search?q=Chan+and+Associates) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-07-22 | [`Chan &amp;amp; Associates`](https://google.com/search?q=Chan+%26amp%3Bamp%3B+Associates) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
