@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-14 | [`Borets (Levare.com) `](https://google.com/search?q=Borets+%28Levare.com%29+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-14 | [`zaun.co.uk`](https://google.com/search?q=zaun.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`stmarysschool.co.za`](https://google.com/search?q=stmarysschool.co.za) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-14 | [`siampremier.co.th`](https://google.com/search?q=siampremier.co.th) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-22 | [`Bartlett Dairy`](https://google.com/search?q=Bartlett+Dairy) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-07-21 | [`Anesco Ltd`](https://google.com/search?q=Anesco+Ltd) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-21 | [`Azimut.it`](https://google.com/search?q=Azimut.it) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-07-21 | [`Bright Future Electr ic, LLC`](https://google.com/search?q=Bright+Future+Electr+ic%2C+LLC) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
