@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-16 | [`Tally Energy Service s`](https://google.com/search?q=Tally+Energy+Service+s) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-16 | [`Cequint`](https://google.com/search?q=Cequint) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-16 | [`* *i***`](https://google.com/search?q=%2A+%2Ai%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-16 | [`ONEATLAS.COM`](https://google.com/search?q=ONEATLAS.COM) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-25 | [`Scharco Elektronik`](https://google.com/search?q=Scharco+Elektronik) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-25 | [`Primoteq`](https://google.com/search?q=Primoteq) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-07-24 | [`Grupo MH`](https://google.com/search?q=Grupo+MH) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-07-24 | [`FERRE BARNIEDO`](https://google.com/search?q=FERRE+BARNIEDO) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
