@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`Smart-swgcrc.org`](https://google.com/search?q=Smart-swgcrc.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`SFJAZZ.ORG`](https://google.com/search?q=SFJAZZ.ORG) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`Camino Nuevo Charter Academy`](https://google.com/search?q=Camino+Nuevo+Charter+Academy) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-18 | [`RIMSS`](https://google.com/search?q=RIMSS) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-26 | [`BoomData - Data &amp;amp; Analytics Consultancy`](https://google.com/search?q=BoomData+-+Data+%26amp%3Bamp%3B+Analytics+Consultancy) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-25 | [`de----int`](https://google.com/search?q=de----int) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-07-25 | [`Charles & Colvard Lt d.`](https://google.com/search?q=Charles+%26+Colvard+Lt+d.) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-07-25 | [`El Milagro`](https://google.com/search?q=El+Milagro) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
