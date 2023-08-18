@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`Camino Nuevo Charter Academy`](https://google.com/search?q=Camino+Nuevo+Charter+Academy) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-18 | [`RIMSS`](https://google.com/search?q=RIMSS) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-17 | [`ALLIANCE`](https://google.com/search?q=ALLIANCE) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-08-17 | [`DEUTSCHELEASING`](https://google.com/search?q=DEUTSCHELEASING) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-25 | [`Charles & Colvard Lt d.`](https://google.com/search?q=Charles+%26+Colvard+Lt+d.) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-25 | [`El Milagro`](https://google.com/search?q=El+Milagro) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-25 | [`EDVMS`](https://google.com/search?q=EDVMS) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
-| 2023-07-25 | [`Becht Engineering`](https://google.com/search?q=Becht+Engineering) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
