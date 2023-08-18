@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-18 | [`sgl.co.th`](https://google.com/search?q=sgl.co.th) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`mybps.us`](https://google.com/search?q=mybps.us) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`mitchcointernational.com`](https://google.com/search?q=mitchcointernational.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-18 | [`kriegerklatt.com`](https://google.com/search?q=kriegerklatt.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-26 | [`Kovair Software`](https://google.com/search?q=Kovair+Software) | [everest](https://ympppaper.github.io/ti_ylab/#/profiles?id=everest) |
 | 2023-07-26 | [`DV8 Technology Group`](https://google.com/search?q=DV8+Technology+Group) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-07-26 | [`CROWD`](https://google.com/search?q=CROWD) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-07-26 | [`BoomData -Data and Analytics Consultancy`](https://google.com/search?q=BoomData+-Data+and+Analytics+Consultancy) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
