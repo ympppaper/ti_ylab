@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-20 | [`Novi Pazar put ad`](https://google.com/search?q=Novi+Pazar+put+ad) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-20 | [`The International Civil Defense Organization`](https://google.com/search?q=The+International+Civil+Defense+Organization) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-19 | [`Sartrouville  France`](https://google.com/search?q=Sartrouville++France) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-19 | [`BTC Power`](https://google.com/search?q=BTC+Power) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-27 | [`Handi Quilter`](https://google.com/search?q=Handi+Quilter) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-27 | [`Morehead State Unive rsity (MSU)`](https://google.com/search?q=Morehead+State+Unive+rsity+%28MSU%29) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-07-27 | [`Offutt Nord`](https://google.com/search?q=Offutt+Nord) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-07-27 | [`https://www.zoominfo.com/c/it-luggage-ltd/356677571`](https://google.com/search?q=https%3A%2F%2Fwww.zoominfo.com%2Fc%2Fit-luggage-ltd%2F356677571) | [blacksuit](https://ympppaper.github.io/ti_ylab/#/profiles?id=blacksuit) |
