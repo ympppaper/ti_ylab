@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>News</title>
+    <meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="stylesheet" href="../assets/css/reset.css" />
+<link rel="stylesheet" href="../assets/css/bootstrap-grid.min.css" />
+<link rel="stylesheet" href="../assets/css/style.css" />
+<script src="../assets/js/jquery.min.js"></script></head>
+<body>
+<div class="wrapper">
+    
+<div id="UUID" class="mainModal">
+    <div class="modalUUID">
+        <a href="" title="Close" class="close">X</a>
+        <h2>ENTER UUID</h2>
+        <p>
+            To contact us, you must enter your personal UUID in the field below and press ENTER.
+            After logging in, you will receive detailed information about your company.
+        </p>
+        <form action="" method="post">
+            <input
+                    class="uuid-input"
+                    name="uuid"
+                    type="text"
+                    minlength="20"
+                    required
+                    placeholder="XXXX-XXXX-XXXX-XXXX"
+            />
+            <input type="hidden" name="uuid_redirect">
+            <input type="submit" value="ENTER" />
+        </form>
+        <p class="gotofb">
+            If you do not have UUID, please contact via the
+            <a href="#feedback">feedback</a> form
+        </p>
+    </div>
+</div>
+<div id="feedback" class="mainModal">
+    <div class="modalFeedback">
+        <a href="#close" title="Закрыть" class="close">X</a>
+        <h2>Feedback</h2>
+        <p>
+            If you are the owner of the company you can leave your contact details and you will be provided with a UUID to enter the chat. If you are a media outlet, leave your contacts and we will contact you very soon.
+        </p>
+        <form action="" method="post">
+            <input
+                    name="feedback-name"
+                    required
+                    autocomplete="on"
+                    id="1"
+                    type="text"
+                    placeholder="Your name"
+            />
+            <input
+                    id="2"
+                    required
+                    name="feedback-contacts"
+                    autocomplete="on"
+                    type="email"
+                    placeholder="Your email"
+            />
+            <textarea
+                    name="feedback-message"
+                    required
+                    id="3"
+                    cols="30"
+                    rows="4"
+                    minlength="20"
+                    placeholder="Your message"
+            ></textarea>
+            <img src="data:image/jpeg;base64,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" alt="Enable images to see captcha" width="200" height="60"/>
+            <input
+                    name="captcha"
+                    required
+                    id="captcha"
+                    type="text"
+                    placeholder="Complete captcha"
+            />
+            <input type="hidden" name="gc_value" value="$2y$10$akD1XQf4xYNcyHbrbFvLSOF6Wv5shsFtRF09suICg4cV7Il6Ctvjq">
+            <input type="hidden" name="feedback_form">
+            <input type="submit" value="SEND" />
+        </form>
+    </div>
+</div>
+<div id="public_notice" class="mainModal">
+    <div class="modalNotice">
+        <a href="" title="Close" class="close">X</a>
+        
+        <h2>Public notice</h2>
+        <p>
+            — I ain't fucking buying that.
+        </p>
+		<p>
+            — That's handy because I ain't fucking selling it. It's a fact.
+        </p>
+		<p>
+            by Guy Ritchie
+        </p>
+        <br>
+        <p>
+            1. Snatch is a leakage data base open for public use.
+        </p>
+        <p>
+            2. Snatch does not assume any responsibility for the information and the methods of its acquisition.
+        </p>
+        <p>
+            3. Snatch is ready to cooperate with any groups and companies that provide exclusive information for its further publication. The information source should in that case refuse to carry any responsibility for this information.
+        </p>
+        <p>
+            4. Snatch is ready to publish information of any content and confidential level ignoring all the possible consequences.
+        </p>
+        <p>
+            5. All responsibility for the publications lies upon the persons who made the information leakage possible from the sources they have been entrusted with.
+        </p>
+        <p>
+            6. Snatch publishes personal data and contacts of the personalities who are responsible for  data leakage and made it possible.
+        </p>
+        <p>
+            7. All the information and data published on our resource is of public use and can be shared with similar resources – but the right of the first publication always belongs to the Snatch team.
+        </p>
+        <p>
+            8. Snatch is open to the collaboration with any media to make data leakage situations shared and visible to wide range of people.
+        </p>
+        <p>
+            9. Snatch is always open for a dialogue with the owners of the data and is willing to solve the situation. One can always contact us within the confidential chat room or with the help of feedback form.
+        </p>
+        <p>
+            10. All negotiations are possible only with the means of our chat platform and are kept absolutely confidential.
+        </p>
+        <p>
+            11. Snatch does not assume any responsibility for the data publication consequences and confidential data usage. All the responsibility lies upon those who made the data leakage possible.
+        </p>    </div>
+</div>
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="header-content">
+                <div class="header-start">
+                    <a href="#UUID">
+                        <span>Enter UUID</span>
+                    </a>
+                    <a href="#feedback">
+                        <span>Feedback</span>
+                    </a>
+                    <a href="#public_notice">
+                        <span>Public notice</span>
+                    </a>
+                </div>
+                <div class="header-end">
+                    <div class="header-socials">
+                        <a href="https://t.me/snatch_info">
+                            <img src="../assets/images/telegram.svg" alt="telegram" />
+                        </a>
+                    </div>
+                    <div class="header-buttons">
+                        <button class="b_tor" onclick="window.location.href='http://hl66646wtlp2naoqnhattngigjp5palgqmbwixepcjyq5i534acgqyad.onion/';">TOR</button>
+                        <button class="b_web" onclick="window.location.href='https://snatchnews.top/';">WEB</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>    <main>
+        <div class="container">
+            <div class="row">
+                <div class="sub-header">
+                    <div class="sh-start">
+                        <a href="index.php"><img src="./assets/images/logo.png" alt="Logo" /></a>
+                    </div>
+                    <div class="sh-midle">
+                        <nav class="sh-midle-nav">
+                            <ul>
+                                <li class="sh-m-l"><a href="index.php?filter=new">New company</a></li><li class="sh-m-l"><a href="index.php?filter=full">Full data</a></li><li class="sh-m-l"><a href="index.php?filter=archive">Archive</a></li>                            </ul>
+                        </nav>
+                    </div>
+                    <div class="sh-end">
+                        <form class="news-search" method="post">
+                            <input
+                                    class="news-search_input"
+                                    type="text"
+                                    placeholder="Search for company..."
+                                    name="search"
+                            />
+                            <button class="news-search_button" type="submit">
+                                <img src="./assets/images/n-search.svg" alt="" />
+                            </button>
+                        </form>
+                    </div>
+                </div>
+                <div id="information_block">
+                    <div class="two-col-grid">
+                        <div class="grid-item">
+                            
