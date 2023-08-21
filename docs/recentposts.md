@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-21 | [`Davidoff Hutcher & Citron`](https://google.com/search?q=Davidoff+Hutcher+%26+Citron) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-21 | [`Seiko Group Corporation`](https://google.com/search?q=Seiko+Group+Corporation) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-20 | [`hallbergengineering.com`](https://google.com/search?q=hallbergengineering.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-20 | [`equip-reuse.com`](https://google.com/search?q=equip-reuse.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-29 | [`N** ******* ******`](https://google.com/search?q=N%2A%2A+%2A%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-07-29 | [`Alinabal`](https://google.com/search?q=Alinabal) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-07-28 | [`Frost & Sullivan`](https://google.com/search?q=Frost+%26+Sullivan) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-07-28 | [`Chu De Rennes`](https://google.com/search?q=Chu+De+Rennes) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
