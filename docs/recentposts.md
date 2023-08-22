@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-22 | [`Atlantic Federal Credit Union`](https://google.com/search?q=Atlantic+Federal+Credit+Union) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-22 | [`NE-BIC`](https://google.com/search?q=NE-BIC) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-22 | [`GROUPHC`](https://google.com/search?q=GROUPHC) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-08-22 | [`Department of Defence South African (DARPA)`](https://google.com/search?q=Department+of+Defence+South+African+%28DARPA%29) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-07-30 | [`decimal-point-analytics-pvt`](https://google.com/search?q=decimal-point-analytics-pvt) | [ragroup](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragroup) |
 | 2023-07-30 | [`Muncy Homes`](https://google.com/search?q=Muncy+Homes) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
 | 2023-07-29 | [`AT%26S`](https://google.com/search?q=AT%2526S) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
-| 2023-07-29 | [`Village Church of Barrington`](https://google.com/search?q=Village+Church+of+Barrington) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
