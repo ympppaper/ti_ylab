@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-25 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-25 | [`EPF`](https://google.com/search?q=EPF) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-25 | [`senacrs.com.br`](https://google.com/search?q=senacrs.com.br) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-02 | [`unicorpusa.com`](https://google.com/search?q=unicorpusa.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-02 | [`DAL-TECH Engineering`](https://google.com/search?q=DAL-TECH+Engineering) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-02 | [`Coral Resort`](https://google.com/search?q=Coral+Resort) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-08-02 | [`Professionnel France`](https://google.com/search?q=Professionnel+France) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
