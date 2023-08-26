@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-26 | [`LEN Italia`](https://google.com/search?q=LEN+Italia) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-26 | [`Durham Fasteners`](https://google.com/search?q=Durham+Fasteners) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-26 | [`Axis Elevators `](https://google.com/search?q=Axis+Elevators+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-26 | [`SMS-SME refused to protect customer and business data`](https://google.com/search?q=SMS-SME+refused+to+protect+customer+and+business+data) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-02 | [`Aapd`](https://google.com/search?q=Aapd) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-08-02 | [`Bickel & Brewer - Press Release`](https://google.com/search?q=Bickel+%26+Brewer+-+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
 | 2023-08-02 | [`Birch, Horton, Bittner & Cherot`](https://google.com/search?q=Birch%2C+Horton%2C+Bittner+%26+Cherot) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-08-02 | [`ohiohistory.org`](https://google.com/search?q=ohiohistory.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
