@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-08-28 | [`HealthIndia TPA Services Pvt Ltd`](https://google.com/search?q=HealthIndia+TPA+Services+Pvt+Ltd) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-28 | [`Superior Communications`](https://google.com/search?q=Superior+Communications) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-28 | [`newtree.com.ar`](https://google.com/search?q=newtree.com.ar) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
 | 2023-08-28 | [`purever.com`](https://google.com/search?q=purever.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-03 | [`Venture General Agen cy`](https://google.com/search?q=Venture+General+Agen+cy) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-08-03 | [`Roman Catholic Diocese of Albany`](https://google.com/search?q=Roman+Catholic+Diocese+of+Albany) | [nokoyawa](https://ympppaper.github.io/ti_ylab/#/profiles?id=nokoyawa) |
 | 2023-08-03 | [`pointpleasant.k12.nj.us`](https://google.com/search?q=pointpleasant.k12.nj.us) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-08-03 | [`INSULCANA CONTRACTING LTD`](https://google.com/search?q=INSULCANA+CONTRACTING+LTD) | [ransomblog_noname](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomblog_noname) |
