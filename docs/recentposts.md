@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-06 | [`monte cristalina s.a.`](https://google.com/search?q=monte+cristalina+s.a.) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`Bordelon Marine`](https://google.com/search?q=Bordelon+Marine) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-05 | [`Majestic Spice`](https://google.com/search?q=Majestic+Spice) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-05 | [`Firmdale Hotels`](https://google.com/search?q=Firmdale+Hotels) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-15 | [`DTD Express`](https://google.com/search?q=DTD+Express) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-15 | [`Postel SpA`](https://google.com/search?q=Postel+SpA) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-08-15 | [`Keystone Insurance Services`](https://google.com/search?q=Keystone+Insurance+Services) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-08-15 | [`ABA Research - Business Information 2`](https://google.com/search?q=ABA+Research+-+Business+Information+2) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
