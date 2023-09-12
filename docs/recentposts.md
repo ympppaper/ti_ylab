@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-12 | [`Derrimon Trading was hacked. Critical data of the company and its customers was stolen`](https://google.com/search?q=Derrimon+Trading+was+hacked.+Critical+data+of+the+company+and+its+customers+was+stolen) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-12 | [`Hospice`](https://google.com/search?q=Hospice) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-12 | [`I****** ****`](https://google.com/search?q=I%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-12 | [`**** **e ******e* ***e*********`](https://google.com/search?q=%2A%2A%2A%2A+%2A%2Ae+%2A%2A%2A%2A%2A%2Ae%2A+%2A%2A%2Ae%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`FA Foundry`](https://google.com/search?q=FA+Foundry) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-08-25 | [`Sydenham Laboratories`](https://google.com/search?q=Sydenham+Laboratories) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-08-25 | [`SMS-SME was hacked. A huge amount of confidential information was stolen, information of c`](https://google.com/search?q=SMS-SME+was+hacked.+A+huge+amount+of+confidential+information+was+stolen%2C+information+of+c) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-08-25 | [`Mil-Ken Travel`](https://google.com/search?q=Mil-Ken+Travel) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
