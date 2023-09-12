@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-12 | [`M-Extend / MANIP`](https://google.com/search?q=M-Extend+%2F+MANIP) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-12 | [`SEIKO GROUP CORPORATION`](https://google.com/search?q=SEIKO+GROUP+CORPORATION) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-12 | [`BF&S Civil Engineers`](https://google.com/search?q=BF%26S+Civil+Engineers) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
 | 2023-09-12 | [`Dee Sign`](https://google.com/search?q=Dee+Sign) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-25 | [`Trimaran Capital Partners`](https://google.com/search?q=Trimaran+Capital+Partners) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-25 | [`Demcointer (Tunisia)`](https://google.com/search?q=Demcointer+%28Tunisia%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-08-25 | [`EPF`](https://google.com/search?q=EPF) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-08-25 | [`senacrs.com.br`](https://google.com/search?q=senacrs.com.br) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
