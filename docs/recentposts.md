@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-13 | [`Accuride`](https://google.com/search?q=Accuride) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-13 | [`Dpc & S`](https://google.com/search?q=Dpc+%26+S) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-13 | [`Carpet One`](https://google.com/search?q=Carpet+One) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-13 | [`Markentrainer Werbeagentur, Elwema Automotive`](https://google.com/search?q=Markentrainer+Werbeagentur%2C+Elwema+Automotive) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-26 | [`SKYROOT`](https://google.com/search?q=SKYROOT) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-08-26 | [`Varna Packaging`](https://google.com/search?q=Varna+Packaging) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-08-26 | [`KLM Laboratories Pvt. Ltd`](https://google.com/search?q=KLM+Laboratories+Pvt.+Ltd) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-08-26 | [`Alfagomma, Argus Fluidhandling Ltd`](https://google.com/search?q=Alfagomma%2C+Argus+Fluidhandling+Ltd) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
