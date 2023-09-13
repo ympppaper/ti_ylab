@@ -37073,5 +37073,10 @@
         "post_title": "Accuride",
         "group_name": "akira",
         "discovered": "2023-09-13 13:04:35.006090"
+    },
+    {
+        "post_title": "Chula Vista Electric (CVE)",
+        "group_name": "8base",
+        "discovered": "2023-09-13 14:44:36.881088"
     }
 ]
