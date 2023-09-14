@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-14 | [`Statement on MGM Resorts International: Setting the record straight`](https://google.com/search?q=Statement+on+MGM+Resorts+International%3A+Setting+the+record+straight) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-14 | [`American Steel & Alu minum`](https://google.com/search?q=American+Steel+%26+Alu+minum) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-14 | [`Ja Quith Press Release`](https://google.com/search?q=Ja+Quith+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
 | 2023-09-14 | [`East Baking Press Release`](https://google.com/search?q=East+Baking+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`Asian Network Pacific Home Care and Hospice`](https://google.com/search?q=Asian+Network+Pacific+Home+Care+and+Hospice) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-28 | [`HealthIndia TPA Services Pvt Ltd`](https://google.com/search?q=HealthIndia+TPA+Services+Pvt+Ltd) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-08-28 | [`Superior Communications`](https://google.com/search?q=Superior+Communications) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-08-28 | [`newtree.com.ar`](https://google.com/search?q=newtree.com.ar) | [qilin](https://ympppaper.github.io/ti_ylab/#/profiles?id=qilin) |
