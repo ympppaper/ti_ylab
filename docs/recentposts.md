@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-14 | [`Rick Ramos Law (rickramoslaw.com)`](https://google.com/search?q=Rick+Ramos+Law+%28rickramoslaw.com%29) | [rancoz](https://ympppaper.github.io/ti_ylab/#/profiles?id=rancoz) |
 | 2023-09-14 | [`http://fscjamaica.org`](https://google.com/search?q=http%3A%2F%2Ffscjamaica.org) | [blacksuit](https://ympppaper.github.io/ti_ylab/#/profiles?id=blacksuit) |
 | 2023-09-13 | [`VVandA`](https://google.com/search?q=VVandA) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-13 | [`clearcreek.org`](https://google.com/search?q=clearcreek.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-08-28 | [`jhilburn.com`](https://google.com/search?q=jhilburn.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-27 | [`grupomartex.com`](https://google.com/search?q=grupomartex.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-08-27 | [`Shanghai FRP Research Institute Co., Ltd.`](https://google.com/search?q=Shanghai+FRP+Research+Institute+Co.%2C+Ltd.) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-08-26 | [`Fullerton India (SMFG India Credit)`](https://google.com/search?q=Fullerton+India+%28SMFG+India+Credit%29) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
