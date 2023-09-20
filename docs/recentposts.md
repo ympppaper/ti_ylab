@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-20 | [`fersan.com.tr`](https://google.com/search?q=fersan.com.tr) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`University Obrany - Press Release`](https://google.com/search?q=University+Obrany+-+Press+Release) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
 | 2023-09-19 | [`RTA`](https://google.com/search?q=RTA) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-19 | [`Announcement: Groupe Fructa Partner will be leaked soon`](https://google.com/search?q=Announcement%3A+Groupe+Fructa+Partner+will+be+leaked+soon) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-02 | [`Templeman Consulting Group Inc`](https://google.com/search?q=Templeman+Consulting+Group+Inc) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-02 | [`first bounty payout $50,000`](https://google.com/search?q=first+bounty+payout+%2450%2C000) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-01 | [`cciamp.com`](https://google.com/search?q=cciamp.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-01 | [`fimadev.fr`](https://google.com/search?q=fimadev.fr) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
