@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`Smartfren Telecom`](https://google.com/search?q=Smartfren+Telecom) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-22 | [`Unique Engineering is the most collaborative and dangerous construction company in Asia`](https://google.com/search?q=Unique+Engineering+is+the+most+collaborative+and+dangerous+construction+company+in+Asia) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Arail`](https://google.com/search?q=Arail) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Cosal is a company that distributes personal and confidential data of its customers and re`](https://google.com/search?q=Cosal+is+a+company+that+distributes+personal+and+confidential+data+of+its+customers+and+re) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-04 | [`jamaicainn.com`](https://google.com/search?q=jamaicainn.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`inouemfg.com`](https://google.com/search?q=inouemfg.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`L******* C***** and P********`](https://google.com/search?q=L%2A%2A%2A%2A%2A%2A%2A+C%2A%2A%2A%2A%2A+and+P%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
-| 2023-09-04 | [`Knight Barry Title`](https://google.com/search?q=Knight+Barry+Title) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
