@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`Cosal is a company that distributes personal and confidential data of its customers and re`](https://google.com/search?q=Cosal+is+a+company+that+distributes+personal+and+confidential+data+of+its+customers+and+re) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-21 | [`Mole Valley Farmers`](https://google.com/search?q=Mole+Valley+Farmers) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-21 | [`ruko.de`](https://google.com/search?q=ruko.de) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-21 | [`ende.co.ao is a company you can test corporate network hack on and have 100% hacking succe`](https://google.com/search?q=ende.co.ao+is+a+company+you+can+test+corporate+network+hack+on+and+have+100%25+hacking+succe) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-04 | [`Knight Barry Title`](https://google.com/search?q=Knight+Barry+Title) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-09-03 | [`immoselekt.be`](https://google.com/search?q=immoselekt.be) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-03 | [`gosslaw.com`](https://google.com/search?q=gosslaw.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-03 | [`hamilton-techservices.com`](https://google.com/search?q=hamilton-techservices.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
