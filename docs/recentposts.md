@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-22 | [`Pik Rite`](https://google.com/search?q=Pik+Rite) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Progressive Leasing ( 40 million Customers PII Data )`](https://google.com/search?q=Progressive+Leasing+%28+40+million+Customers+PII+Data+%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Announcement: COMECA Group going to be Leaked`](https://google.com/search?q=Announcement%3A+COMECA+Group+going+to+be+Leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`Announcement: Skatax Accounting company going to be leaked`](https://google.com/search?q=Announcement%3A+Skatax+Accounting+company+going+to+be+leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-04 | [`mariocoelho.com`](https://google.com/search?q=mariocoelho.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`marianoshoes.com`](https://google.com/search?q=marianoshoes.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-04 | [`losh.com`](https://google.com/search?q=losh.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-04 | [`locaparc.fr`](https://google.com/search?q=locaparc.fr) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
