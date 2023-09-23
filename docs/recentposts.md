@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-23 | [`Clarion is the most dangerous electronics to use that can cause you to be hacked`](https://google.com/search?q=Clarion+is+the+most+dangerous+electronics+to+use+that+can+cause+you+to+be+hacked) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-23 | [`Franktronics, Inc`](https://google.com/search?q=Franktronics%2C+Inc) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-09-23 | [`Philippine Health Insurance `](https://google.com/search?q=Philippine+Health+Insurance+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-09-23 | [`C****** ***** ***m**********`](https://google.com/search?q=C%2A%2A%2A%2A%2A%2A+%2A%2A%2A%2A%2A+%2A%2A%2Am%2A%2A%2A%2A%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-05 | [`Brooklyn Premier Orthopedics FULL LEAK!`](https://google.com/search?q=Brooklyn+Premier+Orthopedics+FULL+LEAK%21) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-05 | [`Barry Plant LEAK!`](https://google.com/search?q=Barry+Plant+LEAK%21) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-05 | [`millwgs.com`](https://google.com/search?q=millwgs.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-05 | [`mergerecords.com`](https://google.com/search?q=mergerecords.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
