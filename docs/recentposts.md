@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-24 | [`FabricATE Engineering`](https://google.com/search?q=FabricATE+Engineering) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-24 | [`The Envelope Works Ltd`](https://google.com/search?q=The+Envelope+Works+Ltd) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-23 | [`Fuji Seal Internatio nal (US branch)`](https://google.com/search?q=Fuji+Seal+Internatio+nal+%28US+branch%29) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-23 | [`CLX Logistics`](https://google.com/search?q=CLX+Logistics) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-06 | [`neolife.com`](https://google.com/search?q=neolife.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`monte cristalina s.a.`](https://google.com/search?q=monte+cristalina+s.a.) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-06 | [`Bordelon Marine`](https://google.com/search?q=Bordelon+Marine) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
-| 2023-09-05 | [`Majestic Spice`](https://google.com/search?q=Majestic+Spice) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
