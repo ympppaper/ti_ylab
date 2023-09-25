@@ -37658,5 +37658,10 @@
         "post_title": "Stratesys Full data leak",
         "group_name": "ragnarlocker",
         "discovered": "2023-09-25 14:46:45.339741"
+    },
+    {
+        "post_title": "ZZColdstores",
+        "group_name": "alphv",
+        "discovered": "2023-09-25 22:48:00.450331"
     }
 ]
