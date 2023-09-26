@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-26 | [`Nordic Security Services`](https://google.com/search?q=Nordic+Security+Services) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-26 | [`Prestige Care`](https://google.com/search?q=Prestige+Care) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-26 | [`WEBBER RESTAURANT GROUP`](https://google.com/search?q=WEBBER+RESTAURANT+GROUP) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-26 | [`Pond Security`](https://google.com/search?q=Pond+Security) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-07 | [`otltd.co.uk`](https://google.com/search?q=otltd.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-07 | [`onyx-fire.com`](https://google.com/search?q=onyx-fire.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-07 | [`nobleweb.com`](https://google.com/search?q=nobleweb.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-07 | [`meroso.be`](https://google.com/search?q=meroso.be) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
