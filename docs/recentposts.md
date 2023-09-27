@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-27 | [`The Polish American Association`](https://google.com/search?q=The+Polish+American+Association) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-27 | [`Civic San Diego`](https://google.com/search?q=Civic+San+Diego) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-27 | [`Acoustic Center `](https://google.com/search?q=Acoustic+Center+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-09-27 | [`LANDSTAR POWER ONTARIO INC`](https://google.com/search?q=LANDSTAR+POWER+ONTARIO+INC) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-08 | [`sd69.org`](https://google.com/search?q=sd69.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-08 | [`monaco-technologies.com`](https://google.com/search?q=monaco-technologies.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-08 | [`sfjazz.org`](https://google.com/search?q=sfjazz.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-08 | [`seasonsdarlingharbour.com.au`](https://google.com/search?q=seasonsdarlingharbour.com.au) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
