@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-09-30 | [`Vertical Development`](https://google.com/search?q=Vertical+Development) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-30 | [`Jacobson`](https://google.com/search?q=Jacobson) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-30 | [`Robuck Homes`](https://google.com/search?q=Robuck+Homes) | [play](https://ympppaper.github.io/ti_ylab/#/profiles?id=play) |
 | 2023-09-30 | [`Motel One`](https://google.com/search?q=Motel+One) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-10 | [`New York & Company`](https://google.com/search?q=New+York+%26+Company) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
 | 2023-09-10 | [`New Venture Escrow`](https://google.com/search?q=New+Venture+Escrow) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-10 | [`Children's Home of W yoming Conference`](https://google.com/search?q=Children%27s+Home+of+W+yoming+Conference) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
-| 2023-09-10 | [`Energy One`](https://google.com/search?q=Energy+One) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
