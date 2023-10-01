@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-01 | [`Arga Medicali`](https://google.com/search?q=Arga+Medicali) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-30 | [`C.F. Service and Supply`](https://google.com/search?q=C.F.+Service+and+Supply) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-30 | [`Kona Equity`](https://google.com/search?q=Kona+Equity) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-30 | [`Network Pacific Real Estate - Leak`](https://google.com/search?q=Network+Pacific+Real+Estate+-+Leak) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-11 | [`co.grant.mn.us`](https://google.com/search?q=co.grant.mn.us) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-11 | [`Ford Covesa`](https://google.com/search?q=Ford+Covesa) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-11 | [`Conselho Superior da Justiça do Trabalho`](https://google.com/search?q=Conselho+Superior+da+Justi%C3%A7a+do+Trabalho) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-09-11 | [`UNIVERSAL REALTY GROUP`](https://google.com/search?q=UNIVERSAL+REALTY+GROUP) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
