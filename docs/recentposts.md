@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-03 | [`Steripharma`](https://google.com/search?q=Steripharma) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-02 | [`Karam Chand Thapar &amp; Bros Coal Sales`](https://google.com/search?q=Karam+Chand+Thapar+%26amp%3B+Bros+Coal+Sales) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-02 | [`Windak`](https://google.com/search?q=Windak) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-02 | [`Kirkholm Maskiningeniører`](https://google.com/search?q=Kirkholm+Maskiningeni%C3%B8rer) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-12 | [`BF&S Civil Engineers`](https://google.com/search?q=BF%26S+Civil+Engineers) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
 | 2023-09-12 | [`Dee Sign`](https://google.com/search?q=Dee+Sign) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
 | 2023-09-12 | [`Wave Hill`](https://google.com/search?q=Wave+Hill) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
-| 2023-09-12 | [`Credifiel was hacked and a lot of personal customer and financial information was stolen`](https://google.com/search?q=Credifiel+was+hacked+and+a+lot+of+personal+customer+and+financial+information+was+stolen) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
