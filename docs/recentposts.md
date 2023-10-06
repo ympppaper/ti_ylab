@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-06 | [`Agència Catalana de Notícies (ACN)`](https://google.com/search?q=Ag%C3%A8ncia+Catalana+de+Not%C3%ADcies+%28ACN%29) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-06 | [`cote-expert-equipements.com`](https://google.com/search?q=cote-expert-equipements.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`bm.co.th`](https://google.com/search?q=bm.co.th) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-06 | [`Gruskin Group`](https://google.com/search?q=Gruskin+Group) | [akira](https://ympppaper.github.io/ti_ylab/#/profiles?id=akira) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-16 | [`commercialfluidpower.com`](https://google.com/search?q=commercialfluidpower.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-16 | [`chevalerias.com`](https://google.com/search?q=chevalerias.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-16 | [`blackjewel l.l.c.`](https://google.com/search?q=blackjewel+l.l.c.) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-16 | [`beamconstruction.com`](https://google.com/search?q=beamconstruction.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
