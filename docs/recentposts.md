@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-07 | [`tatatelebusiness.com`](https://google.com/search?q=tatatelebusiness.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-07 | [`sogebank.com`](https://google.com/search?q=sogebank.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-07 | [`sinedieadvisor.com`](https://google.com/search?q=sinedieadvisor.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-07 | [`For UNOB`](https://google.com/search?q=For+UNOB) | [monti](https://ympppaper.github.io/ti_ylab/#/profiles?id=monti) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-17 | [`Announcement: Retail House going to be LEAKED`](https://google.com/search?q=Announcement%3A+Retail+House+going+to+be+LEAKED) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-09-17 | [`ipsenlogistics.com`](https://google.com/search?q=ipsenlogistics.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-17 | [`gsaenz.com.mx`](https://google.com/search?q=gsaenz.com.mx) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-17 | [`glat.zapweb.co.il`](https://google.com/search?q=glat.zapweb.co.il) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
