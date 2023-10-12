@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`ZOUARY &amp; Associés `](https://google.com/search?q=ZOUARY+%26amp%3B+Associ%C3%A9s+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-12 | [`KTUA Landscape Architecture and Planning`](https://google.com/search?q=KTUA+Landscape+Architecture+and+Planning) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-10-12 | [`Air Canada`](https://google.com/search?q=Air+Canada) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-10-12 | [`Instron and ITW Inc`](https://google.com/search?q=Instron+and+ITW+Inc) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-21 | [`A** ******`](https://google.com/search?q=A%2A%2A+%2A%2A%2A%2A%2A%2A) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-21 | [`Axis Elevators`](https://google.com/search?q=Axis+Elevators) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-09-21 | [`Hawkins Delafield Wood`](https://google.com/search?q=Hawkins+Delafield+Wood) | [ransomhouse](https://ympppaper.github.io/ti_ylab/#/profiles?id=ransomhouse) |
-| 2023-09-21 | [`NOVEXCO`](https://google.com/search?q=NOVEXCO) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
