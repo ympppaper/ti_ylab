@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`Institut Technologique FCBA`](https://google.com/search?q=Institut+Technologique+FCBA) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-10-11 | [`Scotbeef Ltd. - Leaks`](https://google.com/search?q=Scotbeef+Ltd.+-+Leaks) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-10-11 | [`Eicon Controle Inteligentes`](https://google.com/search?q=Eicon+Controle+Inteligentes) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-10-11 | [`REH`](https://google.com/search?q=REH) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-21 | [`Gulf American Lines`](https://google.com/search?q=Gulf+American+Lines) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-09-20 | [`messner.com`](https://google.com/search?q=messner.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-20 | [`hwwealth.com`](https://google.com/search?q=hwwealth.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
-| 2023-09-20 | [`compass-inc.com`](https://google.com/search?q=compass-inc.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
