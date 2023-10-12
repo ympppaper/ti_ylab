@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-12 | [`Comtek Advanced Structures, a Latecoere Company`](https://google.com/search?q=Comtek+Advanced+Structures%2C+a+Latecoere+Company) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-10-12 | [`Acoustic Center`](https://google.com/search?q=Acoustic+Center) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-12 | [`Neodata`](https://google.com/search?q=Neodata) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-12 | [`Evasión `](https://google.com/search?q=Evasi%C3%B3n+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-21 | [`Mole Valley Farmers`](https://google.com/search?q=Mole+Valley+Farmers) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-21 | [`ruko.de`](https://google.com/search?q=ruko.de) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-21 | [`ende.co.ao is a company you can test corporate network hack on and have 100% hacking succe`](https://google.com/search?q=ende.co.ao+is+a+company+you+can+test+corporate+network+hack+on+and+have+100%25+hacking+succe) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-09-21 | [`Announcement: Stratesys solutions going to be leaked`](https://google.com/search?q=Announcement%3A+Stratesys+solutions+going+to+be+leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
