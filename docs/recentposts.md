@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-14 | [`The Law Offices of Julian Lewis Sanders & Associates`](https://google.com/search?q=The+Law+Offices+of+Julian+Lewis+Sanders+%26+Associates) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-10-14 | [`Intech`](https://google.com/search?q=Intech) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-10-13 | [`Morrison Community Hospital`](https://google.com/search?q=Morrison+Community+Hospital) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-10-13 | [`http://www.multidev.com`](https://google.com/search?q=http%3A%2F%2Fwww.multidev.com) | [blacksuit](https://ympppaper.github.io/ti_ylab/#/profiles?id=blacksuit) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Smartfren Telecom`](https://google.com/search?q=Smartfren+Telecom) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-22 | [`Unique Engineering is the most collaborative and dangerous construction company in Asia`](https://google.com/search?q=Unique+Engineering+is+the+most+collaborative+and+dangerous+construction+company+in+Asia) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Arail`](https://google.com/search?q=Arail) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-09-22 | [`Cosal is a company that distributes personal and confidential data of its customers and re`](https://google.com/search?q=Cosal+is+a+company+that+distributes+personal+and+confidential+data+of+its+customers+and+re) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
