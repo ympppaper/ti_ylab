@@ -8,7 +8,7 @@ _october 15th, 2023_
 
 - There have been `116` posts within the `month of october`
 
-- There have been `834` posts within the `last 90 days`
+- There have been `833` posts within the `last 90 days`
 
 - There have been `3011` posts within the `year of 2023`
 
