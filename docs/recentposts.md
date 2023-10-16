@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-16 | [`BACCARAT`](https://google.com/search?q=BACCARAT) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-10-16 | [`Cogal Industry`](https://google.com/search?q=Cogal+Industry) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
 | 2023-10-15 | [`QSI INC - Credit Cards & Transaction Processing`](https://google.com/search?q=QSI+INC+-+Credit+Cards+%26+Transaction+Processing) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-10-14 | [`DUHOCAAU`](https://google.com/search?q=DUHOCAAU) | [mallox](https://ympppaper.github.io/ti_ylab/#/profiles?id=mallox) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Retail House - Full Leak`](https://google.com/search?q=Retail+House+-+Full+Leak) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`Road Safety`](https://google.com/search?q=Road+Safety) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
 | 2023-09-22 | [`PainCare`](https://google.com/search?q=PainCare) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-09-22 | [`TAOGLAS`](https://google.com/search?q=TAOGLAS) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
