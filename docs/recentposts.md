@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-16 | [`Boise Rescue Mission Ministries`](https://google.com/search?q=Boise+Rescue+Mission+Ministries) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-10-16 | [`Ampersand`](https://google.com/search?q=Ampersand) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-10-16 | [`BACCARAT`](https://google.com/search?q=BACCARAT) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
 | 2023-10-16 | [`Cogal Industry`](https://google.com/search?q=Cogal+Industry) | [snatch](https://ympppaper.github.io/ti_ylab/#/profiles?id=snatch) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Announcement: COMECA Group going to be Leaked`](https://google.com/search?q=Announcement%3A+COMECA+Group+going+to+be+Leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`Announcement: Skatax Accounting company going to be leaked`](https://google.com/search?q=Announcement%3A+Skatax+Accounting+company+going+to+be+leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
 | 2023-09-22 | [`Retail House - Full Leak`](https://google.com/search?q=Retail+House+-+Full+Leak) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
-| 2023-09-22 | [`Road Safety`](https://google.com/search?q=Road+Safety) | [bianlian](https://ympppaper.github.io/ti_ylab/#/profiles?id=bianlian) |
