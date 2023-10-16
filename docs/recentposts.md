@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-16 | [`Symposia Organizzazione Congressi S.R.L`](https://google.com/search?q=Symposia+Organizzazione+Congressi+S.R.L) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-16 | [`sdproducts.co.uk`](https://google.com/search?q=sdproducts.co.uk) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-16 | [`Boise Rescue Mission Ministries`](https://google.com/search?q=Boise+Rescue+Mission+Ministries) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-10-16 | [`Ampersand`](https://google.com/search?q=Ampersand) | [blackbasta](https://ympppaper.github.io/ti_ylab/#/profiles?id=blackbasta) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-22 | [`Pik Rite`](https://google.com/search?q=Pik+Rite) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Progressive Leasing ( 40 million Customers PII Data )`](https://google.com/search?q=Progressive+Leasing+%28+40+million+Customers+PII+Data+%29) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-22 | [`Announcement: COMECA Group going to be Leaked`](https://google.com/search?q=Announcement%3A+COMECA+Group+going+to+be+Leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
-| 2023-09-22 | [`Announcement: Skatax Accounting company going to be leaked`](https://google.com/search?q=Announcement%3A+Skatax+Accounting+company+going+to+be+leaked) | [ragnarlocker](https://ympppaper.github.io/ti_ylab/#/profiles?id=ragnarlocker) |
