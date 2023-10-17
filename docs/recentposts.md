@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-10-17 | [`EDB `](https://google.com/search?q=EDB+) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-17 | [`Global Product Sales`](https://google.com/search?q=Global+Product+Sales) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
 | 2023-10-16 | [`cpstate.org`](https://google.com/search?q=cpstate.org) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-10-16 | [`Symposia Organizzazione Congressi S.R.L`](https://google.com/search?q=Symposia+Organizzazione+Congressi+S.R.L) | [medusa](https://ympppaper.github.io/ti_ylab/#/profiles?id=medusa) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-23 | [`pelmorex.com`](https://google.com/search?q=pelmorex.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-23 | [`marshallindtech.com`](https://google.com/search?q=marshallindtech.com) | [lockbit3](https://ympppaper.github.io/ti_ylab/#/profiles?id=lockbit3) |
 | 2023-09-23 | [`SAGAM Groupe - a company with dozens of vulnerabilities in its network has been hacked and`](https://google.com/search?q=SAGAM+Groupe+-+a+company+with+dozens+of+vulnerabilities+in+its+network+has+been+hacked+and) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
-| 2023-09-22 | [`Pik Rite`](https://google.com/search?q=Pik+Rite) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
