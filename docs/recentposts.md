@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2023-12-11 | [`Bayer Heritage Federal Credit Union`](https://google.com/search?q=Bayer+Heritage+Federal+Credit+Union) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
 | 2023-11-15 | [`EOS`](https://google.com/search?q=EOS) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
 | 2023-11-09 | [`Koh Brothers`](https://google.com/search?q=Koh+Brothers) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
 | 2023-11-09 | [`Cogdell Memorial Hospital`](https://google.com/search?q=Cogdell+Memorial+Hospital) | [lorenz](https://ympppaper.github.io/ti_ylab/#/profiles?id=lorenz) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2023-09-26 | [`WEBBER RESTAURANT GROUP`](https://google.com/search?q=WEBBER+RESTAURANT+GROUP) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
 | 2023-09-26 | [`Pond Security`](https://google.com/search?q=Pond+Security) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
 | 2023-09-26 | [`SUD TRADING COMPANY`](https://google.com/search?q=SUD+TRADING+COMPANY) | [8base](https://ympppaper.github.io/ti_ylab/#/profiles?id=8base) |
-| 2023-09-26 | [`zzcoldstores.com`](https://google.com/search?q=zzcoldstores.com) | [alphv](https://ympppaper.github.io/ti_ylab/#/profiles?id=alphv) |
